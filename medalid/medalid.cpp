@@ -68,6 +68,8 @@ void writeResult(vector<tuple<int, int>>& series)
 
         fout << endl;
     }
+
+    fout.close();
 }
 
 int main()
