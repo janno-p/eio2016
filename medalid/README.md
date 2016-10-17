@@ -26,12 +26,12 @@ arv *V* ning järgmisele *V* reale üks võimalik medalite jaotus sarjade vahel.
 
 **Näide.**
 
-*medalidsis.txt*
+`medalidsis.txt`
 
 >     10
 >     46 47 48 45 2 46 48 3 1 49
 
-*medalidval.txt*
+`medalidval.txt`
 
 >     4
 >     3 1 2 3
