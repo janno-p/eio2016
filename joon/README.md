@@ -5,7 +5,7 @@
 
 Joonistame alloleval joonisel näidatud murdjoont, liikudes igal sammul ühe ruuduvahe võrra.
 
-// ..
+![Joonis](https://bitbucket.org/janno-p/eio2016/raw/HEAD/joon/joon.png)
 
 Kui alustame sammul 0 ruudul koordinaatidega (1; 1), siis millisel ruudul oleme sammul *N*?
 
