@@ -10,6 +10,9 @@ DEST_JOON=bin/joon
 SRC_MIL=mil/mil
 DEST_MIL=bin/mil
 
+SRC_FACT=fact/fact
+DEST_FACT=bin/fact
+
 medalid: $(SRC_MEDALID).cpp
 	mkdir -p bin && \
 	$(CC) $(CFLAGS) -o $(DEST_MEDALID) $(SRC_MEDALID).cpp && \
@@ -31,9 +34,16 @@ mil: $(SRC_MIL).cpp
 	cd bin && \
 	./mil
 
-all: medalid joon mil
+fact: $(SRC_FACT).cpp
+	mkdir -p bin && \
+	$(CC) $(CFLAGS) -o $(DEST_FACT) $(SRC_FACT).cpp && \
+	cp $(SRC_FACT)sis.txt $(DEST_FACT)sis.txt && \
+	cd bin && \
+	./fact
+
+all: medalid joon mil fact
 
 clean:
 	rm -rf bin
 
-.PHONY: all medalid joon mil clean
+.PHONY: all medalid joon mil fact clean
