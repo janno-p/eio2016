@@ -1,7 +1,6 @@
 #include <fstream>
 #include <string>
 #include <limits>
-#include <iostream>
 #include <cctype>
 
 using namespace std;
@@ -52,9 +51,13 @@ int analyse(string& str)
     {
         int a = normA(origin - 1);
         int b = normB(origin + 1);
+
         value = max(value, g(a, b) + 1);
         if (str[origin] == str[b])
             value = max(value, g(a, normB(b + 1)) + 2);
+
+        if (value == length)
+            return value;
     }
 
     return value;
