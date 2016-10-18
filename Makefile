@@ -7,6 +7,9 @@ DEST_MEDALID=bin/medalid
 SRC_JOON=joon/joon
 DEST_JOON=bin/joon
 
+SRC_MIL=mil/mil
+DEST_MIL=bin/mil
+
 medalid: $(SRC_MEDALID).cpp
 	mkdir -p bin && \
 	$(CC) $(CFLAGS) -o $(DEST_MEDALID) $(SRC_MEDALID).cpp && \
@@ -21,9 +24,16 @@ joon: $(SRC_JOON).cpp
 	cd bin && \
 	./joon
 
-all: medalid joon
+mil: $(SRC_MIL).cpp
+	mkdir -p bin && \
+	$(CC) $(CFLAGS) -o $(DEST_MIL) $(SRC_MIL).cpp && \
+	cp $(SRC_MIL)sis.txt $(DEST_MIL)sis.txt && \
+	cd bin && \
+	./mil
+
+all: medalid joon mil
 
 clean:
 	rm -rf bin
 
-.PHONY: all medalid joon clean
+.PHONY: all medalid joon mil clean
