@@ -1,0 +1,203 @@
+0 @4463@ WORD_MEANING
+  1 PART_OF_SPEECH "n"
+  1 VARIANTS
+    2 LITERAL "hiiu kannel"
+      3 SENSE 1
+      3 DEFINITION "poognaga mängitav kolme-nelja keelega eesti rahvapill"
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "4463"
+        4 SOURCE_ID 1
+          5 TEXT_KEY "3663"
+        4 SOURCE_ID 1
+          5 TEXT_KEY "3665"
+        4 SOURCE_ID 1
+          5 TEXT_KEY "3673"
+        4 SOURCE_ID 1
+          5 TEXT_KEY "3689"
+        4 SOURCE_ID 1
+          5 TEXT_KEY "3692"
+        4 SOURCE_ID 1
+          5 TEXT_KEY "3693"
+        4 SOURCE_ID 2
+          5 TEXT_KEY "3792"
+        4 SOURCE_ID 1001
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "poogenpill"
+          5 SENSE 1
+    2 RELATION "be_in_state"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "rahvapill"
+          5 SENSE 1
+      3 SOURCE_ID 1001
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_near_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "n"
+        4 WORDNET_OFFSET 3140188
+
+0 @4483@ WORD_MEANING
+  1 PART_OF_SPEECH "n"
+  1 VARIANTS
+    2 LITERAL "kulbipill"
+      3 SENSE 1
+      3 DEFINITION "puukulbist ja sellele tõmmatud ühest keelest moodustuv naljapill,  mida mängitakse vibukujulise poognaga"
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "4483"
+        4 SOURCE_ID 1
+          5 TEXT_KEY "3683"
+        4 SOURCE_ID 1
+          5 TEXT_KEY "3685"
+        4 SOURCE_ID 1
+          5 TEXT_KEY "3693"
+        4 SOURCE_ID 1
+          5 TEXT_KEY "3709"
+        4 SOURCE_ID 1
+          5 TEXT_KEY "3712"
+        4 SOURCE_ID 1
+          5 TEXT_KEY "3713"
+        4 SOURCE_ID 2
+          5 TEXT_KEY "3812"
+        4 SOURCE_ID 1001
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "poogenpill"
+          5 SENSE 1
+    2 RELATION "be_in_state"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "rahvapill"
+          5 SENSE 1
+      3 SOURCE_ID 1001
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_has_hyperonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "n"
+        4 WORDNET_OFFSET 2804379
+
+0 @4495@ WORD_MEANING
+  1 PART_OF_SPEECH "n"
+  1 VARIANTS
+    2 LITERAL "moldpill"
+      3 SENSE 1
+      3 DEFINITION "vibupoognaga mängitav moldja kõlakasti ning pügalalise sõrmlauaga pill"
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "4495"
+        4 SOURCE_ID 1
+          5 TEXT_KEY "3695"
+        4 SOURCE_ID 1
+          5 TEXT_KEY "3697"
+        4 SOURCE_ID 1
+          5 TEXT_KEY "3705"
+        4 SOURCE_ID 1
+          5 TEXT_KEY "3721"
+        4 SOURCE_ID 1
+          5 TEXT_KEY "3724"
+        4 SOURCE_ID 1
+          5 TEXT_KEY "3725"
+        4 SOURCE_ID 2
+          5 TEXT_KEY "3824"
+        4 SOURCE_ID 1001
+    2 LITERAL "mollpill"
+      3 SENSE 1
+    2 LITERAL "roikapill"
+      3 SENSE 1
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "poogenpill"
+          5 SENSE 1
+    2 RELATION "be_in_state"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "rahvapill"
+          5 SENSE 1
+      3 SOURCE_ID 1001
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_has_hyperonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "n"
+        4 WORDNET_OFFSET 3140188
+
+0 @4092@ WORD_MEANING
+  1 PART_OF_SPEECH "n"
+  1 VARIANTS
+    2 LITERAL "keelpill"
+      3 SENSE 1
+      3 DEFINITION "muusikariist, mille heliallikas on võnkuv keel ja mille heli tugevdab kõlakast v. -kilp"
+      3 EXAMPLES
+        4 EXAMPLE "Sõrmedega, poognaga, lipitsaga mängitavad keelpillid."
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "4092"
+        4 SOURCE_ID 1
+          5 TEXT_KEY "3325"
+        4 SOURCE_ID 1
+          5 TEXT_KEY "3327"
+        4 SOURCE_ID 1
+          5 TEXT_KEY "3335"
+        4 SOURCE_ID 1
+          5 TEXT_KEY "3351"
+        4 SOURCE_ID 1
+          5 TEXT_KEY "3354"
+        4 SOURCE_ID 1
+          5 TEXT_KEY "3355"
+        4 SOURCE_ID 2
+          5 TEXT_KEY "3453"
+        4 SOURCE_ID 1003
+    2 LITERAL "kordofon"
+      3 SENSE 1
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "pill"
+          5 SENSE 1
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "dombra"
+          5 SENSE 1
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "dutaar"
+          5 SENSE 1
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "poogenpill"
+          5 SENSE 1
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "kobsa"
+          5 SENSE 1
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "näppepill"
+          5 SENSE 1
+    2 RELATION "involved"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "keel"
+          5 SENSE 7
+      3 FEATURES
+        4 REVERSED
+      3 SOURCE_ID 1003
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "n"
+        4 WORDNET_OFFSET 3139306
+        

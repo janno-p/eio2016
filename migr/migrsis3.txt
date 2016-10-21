@@ -1,0 +1,4749 @@
+0 @4200992@ WORD_MEANING
+  1 PART_OF_SPEECH "n"
+  1 VARIANTS
+    2 LITERAL "action"
+      3 SENSE 6
+      3 DEFINITION "the series of events that form a plot; "his novels always have a lot of action""
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "04200992-n"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "plot"
+          5 SENSE 2
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "n"
+        4 WORDNET_OFFSET 4200992
+
+0 @567977@ WORD_MEANING
+  1 PART_OF_SPEECH "v"
+  1 VARIANTS
+    2 LITERAL "sketch"
+      3 SENSE 1
+      3 DEFINITION "describe roughly or briefly"
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "00567977-v"
+    2 LITERAL "outline"
+      3 SENSE 2
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "00567977-v"
+    2 LITERAL "adumbrate"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "00567977-v"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "v"
+        4 LITERAL "describe"
+          5 SENSE 3
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "v"
+        4 WORDNET_OFFSET 567977
+
+0 @986653@ WORD_MEANING
+  1 PART_OF_SPEECH "n"
+  1 VARIANTS
+    2 LITERAL "falcon"
+      3 SENSE 1
+      3 DEFINITION "diurnal birds of prey having long pointed powerful wings adapted for swift flight"
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "00986653-n"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "hawk"
+          5 SENSE 1
+    2 RELATION "has_mero_member"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "Falconidae"
+          5 SENSE 1
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "peregrine"
+          5 SENSE 1
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "gyrfalcon"
+          5 SENSE 1
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "kestrel"
+          5 SENSE 2
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "sparrow hawk"
+          5 SENSE 2
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "pigeon hawk"
+          5 SENSE 1
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "hobby"
+          5 SENSE 2
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "caracara"
+          5 SENSE 1
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "n"
+        4 WORDNET_OFFSET 986653
+
+0 @6319290@ WORD_MEANING
+  1 PART_OF_SPEECH "n"
+  1 VARIANTS
+    2 LITERAL "Saracen"
+      3 SENSE 3
+      3 DEFINITION "(historically) a Muslim who opposed the crusades"
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "06319290-n"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "Muslim"
+          5 SENSE 1
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "n"
+        4 WORDNET_OFFSET 6319290
+
+0 @1697074@ WORD_MEANING
+  1 PART_OF_SPEECH "n"
+  1 VARIANTS
+    2 LITERAL "wild horse"
+      3 SENSE 1
+      3 DEFINITION "undomesticated or feral domestic horse"
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "01697074-n"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "horse"
+          5 SENSE 1
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "tarpan"
+          5 SENSE 1
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "warrigal"
+          5 SENSE 3
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "Przewalski's horse"
+          5 SENSE 1
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "n"
+        4 WORDNET_OFFSET 1697074
+
+0 @7618643@ WORD_MEANING
+  1 PART_OF_SPEECH "n"
+  1 VARIANTS
+    2 LITERAL "dwarf elder"
+      3 SENSE 2
+      3 DEFINITION "dwarf herbaceous elder of Europe having pink flowers and a nauseous odor"
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "07618643-n"
+    2 LITERAL "danewort"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "07618643-n"
+    2 LITERAL "Sambucus ebulus"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "07618643-n"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "elder"
+          5 SENSE 3
+    2 RELATION "has_mero_member"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "Sambucus"
+          5 SENSE 1
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "n"
+        4 WORDNET_OFFSET 7618643
+
+0 @9178737@ WORD_MEANING
+  1 PART_OF_SPEECH "n"
+  1 VARIANTS
+    2 LITERAL "inflation rate"
+      3 SENSE 1
+      3 DEFINITION "the rate of change of prices (as indicated by a price index) calculated on a monthly or annual basis"
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "09178737-n"
+    2 LITERAL "rate of inflation"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "09178737-n"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "rate"
+          5 SENSE 4
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "n"
+        4 WORDNET_OFFSET 9178737
+
+0 @3030896@ WORD_MEANING
+  1 PART_OF_SPEECH "n"
+  1 VARIANTS
+    2 LITERAL "school"
+      3 SENSE 1
+      3 DEFINITION "a place where young people receive education; "the school was built in 1932"; "he walked to school every morning""
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "03030896-n"
+    2 LITERAL "schoolhouse"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "03030896-n"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "building"
+          5 SENSE 3
+    2 RELATION "has_mero_part"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "school system"
+          5 SENSE 1
+    2 RELATION "has_holo_part"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "classroom"
+          5 SENSE 1
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "conservatory"
+          5 SENSE 2
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "day school"
+          5 SENSE 1
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "n"
+        4 WORDNET_OFFSET 3030896
+
+0 @8249927@ WORD_MEANING
+  1 PART_OF_SPEECH "n"
+  1 VARIANTS
+    2 LITERAL "chemical reaction"
+      3 SENSE 1
+      3 DEFINITION "(chemistry) a process in which one or more substances are changed into others; "there was a chemical reaction of the lime with the ground water""
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "08249927-n"
+    2 LITERAL "reaction"
+      3 SENSE 5
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "08249927-n"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "chemical process"
+          5 SENSE 1
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "photochemical reaction"
+          5 SENSE 1
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "chemical equilibrium"
+          5 SENSE 1
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "chain reaction"
+          5 SENSE 2
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "oxidation"
+          5 SENSE 1
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "reduction"
+          5 SENSE 4
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "oxidation-reduction"
+          5 SENSE 1
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "endothermic reaction"
+          5 SENSE 1
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "exothermic reaction"
+          5 SENSE 1
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "double decomposition"
+          5 SENSE 1
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "n"
+        4 WORDNET_OFFSET 8249927
+
+0 @382314@ WORD_MEANING
+  1 PART_OF_SPEECH "v"
+  1 VARIANTS
+    2 LITERAL "slant"
+      3 SENSE 1
+      3 DEFINITION "present with a bias"
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "00382314-v"
+    2 LITERAL "angle"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "00382314-v"
+    2 LITERAL "weight"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "00382314-v"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "v"
+        4 LITERAL "bias"
+          5 SENSE 1
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "v"
+        4 WORDNET_OFFSET 382314
+
+0 @7972921@ WORD_MEANING
+  1 PART_OF_SPEECH "n"
+  1 VARIANTS
+    2 LITERAL "genus Rhizoctinia"
+      3 SENSE 1
+      3 DEFINITION "form genus of imperfect fungi some species of which are now placed in genera Pellicularia and Corticium because their perfect stages have been found"
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "07972921-n"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "fungus genus"
+          5 SENSE 1
+    2 RELATION "has_mero_member"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "Mycelia Sterilia"
+          5 SENSE 1
+    2 RELATION "has_holo_member"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "rhizoctinia"
+          5 SENSE 1
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "n"
+        4 WORDNET_OFFSET 7972921
+
+0 @1219368@ WORD_MEANING
+  1 PART_OF_SPEECH "v"
+  1 VARIANTS
+    2 LITERAL "ting"
+      3 SENSE 1
+      3 DEFINITION "go "ting""
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "01219368-v"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "v"
+        4 LITERAL "sound"
+          5 SENSE 8
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "v"
+        4 WORDNET_OFFSET 1219368
+
+0 @1358231@ WORD_MEANING
+  1 PART_OF_SPEECH "v"
+  1 VARIANTS
+    2 LITERAL "demote"
+      3 SENSE 1
+      3 DEFINITION "assign to a lower position"
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "01358231-v"
+    2 LITERAL "bump"
+      3 SENSE 4
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "01358231-v"
+    2 LITERAL "relegate"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "01358231-v"
+    2 LITERAL "kick downstairs"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "01358231-v"
+    2 LITERAL "assign to a lower position"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "01358231-v"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "v"
+        4 LITERAL "delegate"
+          5 SENSE 1
+    2 RELATION "fuzzynym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "v"
+        4 LITERAL "murder"
+          5 SENSE 2
+    2 RELATION "near_antonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "v"
+        4 LITERAL "promote"
+          5 SENSE 2
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "v"
+        4 LITERAL "reduce"
+          5 SENSE 19
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "v"
+        4 WORDNET_OFFSET 1358231
+
+0 @4020636@ WORD_MEANING
+  1 PART_OF_SPEECH "n"
+  1 VARIANTS
+    2 LITERAL "pacifism"
+      3 SENSE 1
+      3 DEFINITION "the doctrine that all violence in unjustifiable"
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "04020636-n"
+    2 LITERAL "passivism"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "04020636-n"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "doctrine"
+          5 SENSE 1
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "n"
+        4 WORDNET_OFFSET 4020636
+
+0 @5995339@ WORD_MEANING
+  1 PART_OF_SPEECH "n"
+  1 VARIANTS
+    2 LITERAL "checker"
+      3 SENSE 1
+      3 DEFINITION "one who checks the correctness of something"
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "05995339-n"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "examiner"
+          5 SENSE 1
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "n"
+        4 WORDNET_OFFSET 5995339
+
+0 @2217576@ WORD_MEANING
+  1 PART_OF_SPEECH "n"
+  1 VARIANTS
+    2 LITERAL "bur"
+      3 SENSE 1
+      3 DEFINITION "small bit used in dentistry or surgery"
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "02217576-n"
+    2 LITERAL "burr"
+      3 SENSE 3
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "02217576-n"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "bit"
+          5 SENSE 1
+    2 RELATION "has_mero_part"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "dentist's drill"
+          5 SENSE 1
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "n"
+        4 WORDNET_OFFSET 2217576
+
+0 @5346258@ WORD_MEANING
+  1 PART_OF_SPEECH "n"
+  1 VARIANTS
+    2 LITERAL "trust company"
+      3 SENSE 1
+      3 DEFINITION "an organization (usually with a commercial bank) that is engaged as a trustee or fiduciary or agent in handling trust funds or estates of custodial arrangements or stock transfers or related services"
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "05346258-n"
+    2 LITERAL "trust corporation"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "05346258-n"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "financial institution"
+          5 SENSE 1
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "n"
+        4 WORDNET_OFFSET 5346258
+
+0 @2123229@ WORD_MEANING
+  1 PART_OF_SPEECH "a"
+  1 VARIANTS
+    2 LITERAL "perceptual"
+      3 SENSE 1
+      3 DEFINITION ""perceptual stimulus""
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "02123229-a"
+  1 INTERNAL_LINKS
+    2 RELATION "is_derived_from"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "sensing"
+          5 SENSE 1
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "a"
+        4 WORDNET_OFFSET 2123229
+
+0 @8733138@ WORD_MEANING
+  1 PART_OF_SPEECH "n"
+  1 VARIANTS
+    2 LITERAL "echinococcosis"
+      3 SENSE 1
+      3 DEFINITION "infestation with echinococci (tapeworms)"
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "08733138-n"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "infestation"
+          5 SENSE 1
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "n"
+        4 WORDNET_OFFSET 8733138
+
+0 @6888603@ WORD_MEANING
+  1 PART_OF_SPEECH "n"
+  1 VARIANTS
+    2 LITERAL "squirrel corn"
+      3 SENSE 1
+      3 DEFINITION "American plant with cream-colored flowers and tuberous roots resembling kernels of corn"
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "06888603-n"
+    2 LITERAL "Dicentra canadensis"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "06888603-n"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "herb"
+          5 SENSE 2
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "n"
+        4 WORDNET_OFFSET 6888603
+
+0 @228012@ WORD_MEANING
+  1 PART_OF_SPEECH "b"
+  1 VARIANTS
+    2 LITERAL "inequitably"
+      3 SENSE 1
+      3 DEFINITION ""Their father's possessions were inequitably divided among the sons""
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "00228012-b"
+  1 INTERNAL_LINKS
+    2 RELATION "near_antonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "b"
+        4 LITERAL "equitably"
+          5 SENSE 1
+    2 RELATION "is_derived_from"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "a"
+        4 LITERAL "inequitable"
+          5 SENSE 1
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "b"
+        4 WORDNET_OFFSET 228012
+
+0 @281003@ WORD_MEANING
+  1 PART_OF_SPEECH "v"
+  1 VARIANTS
+    2 LITERAL "purify"
+      3 SENSE 2
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "00281003-v"
+    2 LITERAL "sanctify"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "00281003-v"
+    2 LITERAL "declare pure"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "00281003-v"
+    2 LITERAL "declare holy"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "00281003-v"
+    2 LITERAL "free from sin"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "00281003-v"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "v"
+        4 LITERAL "declare"
+          5 SENSE 5
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "v"
+        4 LITERAL "spiritualize"
+          5 SENSE 1
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "v"
+        4 LITERAL "lustrate"
+          5 SENSE 1
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "v"
+        4 WORDNET_OFFSET 281003
+
+0 @6606334@ WORD_MEANING
+  1 PART_OF_SPEECH "n"
+  1 VARIANTS
+    2 LITERAL "Parry's pinyon"
+      3 SENSE 1
+      3 DEFINITION "5-needled pinon of S California and N Baja California having (sometimes 3- or 4-needled showing hybridization from Pinus californiarum)"
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "06606334-n"
+    2 LITERAL "Pinus quadrifolia"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "06606334-n"
+    2 LITERAL "Pinus parryana"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "06606334-n"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "pinon"
+          5 SENSE 1
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "n"
+        4 WORDNET_OFFSET 6606334
+
+0 @1870176@ WORD_MEANING
+  1 PART_OF_SPEECH "n"
+  1 VARIANTS
+    2 LITERAL "Malacanthidae"
+      3 SENSE 1
+      3 DEFINITION "short-headed marine fishes; often brightly colored"
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "01870176-n"
+    2 LITERAL "family Malacanthidae"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "01870176-n"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "fish family"
+          5 SENSE 1
+    2 RELATION "has_mero_member"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "Perciformes"
+          5 SENSE 1
+    2 RELATION "has_holo_member"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "Lopholatilus"
+          5 SENSE 1
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "n"
+        4 WORDNET_OFFSET 1870176
+
+0 @7807467@ WORD_MEANING
+  1 PART_OF_SPEECH "n"
+  1 VARIANTS
+    2 LITERAL "Castilleja"
+      3 SENSE 1
+      3 DEFINITION "genus of western N and S American perennials often semiparasitic on roots of grasses"
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "07807467-n"
+    2 LITERAL "genus Castilleja"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "07807467-n"
+    2 LITERAL "Castilleia"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "07807467-n"
+    2 LITERAL "genus Castilleia"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "07807467-n"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "asterid dicot genus"
+          5 SENSE 1
+    2 RELATION "has_mero_member"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "Scrophulariaceae"
+          5 SENSE 1
+    2 RELATION "has_holo_member"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "Indian paintbrush"
+          5 SENSE 2
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "n"
+        4 WORDNET_OFFSET 7807467
+
+0 @5358502@ WORD_MEANING
+  1 PART_OF_SPEECH "n"
+  1 VARIANTS
+    2 LITERAL "dictatorship"
+      3 SENSE 2
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "05358502-n"
+    2 LITERAL "absolutism"
+      3 SENSE 3
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "05358502-n"
+    2 LITERAL "authoritarianism"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "05358502-n"
+    2 LITERAL "Caesarism"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "05358502-n"
+    2 LITERAL "despotism"
+      3 SENSE 2
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "05358502-n"
+    2 LITERAL "monocracy"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "05358502-n"
+    2 LITERAL "one-man rule"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "05358502-n"
+    2 LITERAL "Stalinism"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "05358502-n"
+    2 LITERAL "totalitarianism"
+      3 SENSE 2
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "05358502-n"
+    2 LITERAL "tyranny"
+      3 SENSE 2
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "05358502-n"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "autocracy"
+          5 SENSE 2
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "police state"
+          5 SENSE 1
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "n"
+        4 WORDNET_OFFSET 5358502
+
+0 @3439145@ WORD_MEANING
+  1 PART_OF_SPEECH "n"
+  1 VARIANTS
+    2 LITERAL "refractoriness"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "03439145-n"
+    2 LITERAL "unmanageableness"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "03439145-n"
+    2 LITERAL "recalcitrance"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "03439145-n"
+    2 LITERAL "recalcitrancy"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "03439145-n"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "intractability"
+          5 SENSE 1
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "n"
+        4 WORDNET_OFFSET 3439145
+
+0 @46727@ WORD_MEANING
+  1 PART_OF_SPEECH "b"
+  1 VARIANTS
+    2 LITERAL "first"
+      3 SENSE 1
+      3 DEFINITION ""First we must consider the garter snake""
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "00046727-b"
+    2 LITERAL "firstly"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "00046727-b"
+    2 LITERAL "foremost"
+      3 SENSE 2
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "00046727-b"
+    2 LITERAL "first of all"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "00046727-b"
+    2 LITERAL "first off"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "00046727-b"
+    2 LITERAL "before anything else"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "00046727-b"
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "b"
+        4 WORDNET_OFFSET 46727
+
+0 @118139@ WORD_MEANING
+  1 PART_OF_SPEECH "b"
+  1 VARIANTS
+    2 LITERAL "i.e."
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "00118139-b"
+    2 LITERAL "id est"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "00118139-b"
+    2 LITERAL "that is"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "00118139-b"
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "b"
+        4 WORDNET_OFFSET 118139
+
+0 @180995@ WORD_MEANING
+  1 PART_OF_SPEECH "b"
+  1 VARIANTS
+    2 LITERAL "alias"
+      3 SENSE 1
+      3 DEFINITION ""Mr. Smith, alias Mr. Lafayette""
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "00180995-b"
+    2 LITERAL "a.k.a."
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "00180995-b"
+    2 LITERAL "also known as"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "00180995-b"
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "b"
+        4 WORDNET_OFFSET 180995
+
+0 @4488642@ WORD_MEANING
+  1 PART_OF_SPEECH "n"
+  1 VARIANTS
+    2 LITERAL "recital"
+      3 SENSE 4
+      3 DEFINITION "performance of music or dance esp by soloists"
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "04488642-n"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "performance"
+          5 SENSE 4
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "n"
+        4 WORDNET_OFFSET 4488642
+
+0 @519819@ WORD_MEANING
+  1 PART_OF_SPEECH "n"
+  1 VARIANTS
+    2 LITERAL "engraving"
+      3 SENSE 1
+      3 DEFINITION "making engraved or etched plates and printing designs from them"
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "00519819-n"
+    2 LITERAL "etching"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "00519819-n"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "printmaking"
+          5 SENSE 1
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "steel engraving"
+          5 SENSE 1
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "aquatint"
+          5 SENSE 1
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "n"
+        4 WORDNET_OFFSET 519819
+
+0 @1459624@ WORD_MEANING
+  1 PART_OF_SPEECH "n"
+  1 VARIANTS
+    2 LITERAL "Manx cat"
+      3 SENSE 1
+      3 DEFINITION "a short-haired tailless breed of cat believed to originate on the Isle of Man"
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "01459624-n"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "domestic cat"
+          5 SENSE 1
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "n"
+        4 WORDNET_OFFSET 1459624
+
+0 @1360902@ WORD_MEANING
+  1 PART_OF_SPEECH "v"
+  1 VARIANTS
+    2 LITERAL "remove"
+      3 SENSE 5
+      3 DEFINITION "remove from a position or an office"
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "01360902-v"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "v"
+        4 LITERAL "unseat"
+          5 SENSE 2
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "v"
+        4 LITERAL "oust"
+          5 SENSE 1
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "v"
+        4 LITERAL "fire"
+          5 SENSE 8
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "v"
+        4 LITERAL "drop"
+          5 SENSE 17
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "v"
+        4 LITERAL "pull off"
+          5 SENSE 3
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "v"
+        4 LITERAL "winkle out"
+          5 SENSE 2
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "v"
+        4 LITERAL "invalid"
+          5 SENSE 2
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "v"
+        4 LITERAL "bench"
+          5 SENSE 2
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "v"
+        4 WORDNET_OFFSET 1360902
+
+0 @6773584@ WORD_MEANING
+  1 PART_OF_SPEECH "n"
+  1 VARIANTS
+    2 LITERAL "Lysichiton"
+      3 SENSE 1
+      3 DEFINITION "skunk cabbage2"
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "06773584-n"
+    2 LITERAL "genus Lysichiton"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "06773584-n"
+    2 LITERAL "Lysichitum"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "06773584-n"
+    2 LITERAL "genus Lysichitum"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "06773584-n"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "monocot genus"
+          5 SENSE 1
+    2 RELATION "has_mero_member"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "Araceae"
+          5 SENSE 1
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "n"
+        4 WORDNET_OFFSET 6773584
+
+0 @363460@ WORD_MEANING
+  1 PART_OF_SPEECH "v"
+  1 VARIANTS
+    2 LITERAL "diagnose"
+      3 SENSE 2
+      3 DEFINITION "subject to an analysis; usually used in a medical context"
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "00363460-v"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "v"
+        4 LITERAL "analyze"
+          5 SENSE 1
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "v"
+        4 LITERAL "explore"
+          5 SENSE 4
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "v"
+        4 WORDNET_OFFSET 363460
+
+0 @4173206@ WORD_MEANING
+  1 PART_OF_SPEECH "n"
+  1 VARIANTS
+    2 LITERAL "proper noun"
+      3 SENSE 1
+      3 DEFINITION "a noun that denotes a particular thing; usually capitalized"
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "04173206-n"
+    2 LITERAL "proper name"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "04173206-n"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "noun"
+          5 SENSE 1
+    2 RELATION "near_antonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "common noun"
+          5 SENSE 1
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "n"
+        4 WORDNET_OFFSET 4173206
+
+0 @6388581@ WORD_MEANING
+  1 PART_OF_SPEECH "n"
+  1 VARIANTS
+    2 LITERAL "tanker"
+      3 SENSE 2
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "06388581-n"
+    2 LITERAL "tank driver"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "06388581-n"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "soldier"
+          5 SENSE 2
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "n"
+        4 WORDNET_OFFSET 6388581
+
+0 @3943010@ WORD_MEANING
+  1 PART_OF_SPEECH "n"
+  1 VARIANTS
+    2 LITERAL "love"
+      3 SENSE 2
+      3 DEFINITION "any object of warm affection or devotion; "the theater was her first love" or "he has a passion for cock fighting""
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "03943010-n"
+    2 LITERAL "passion"
+      3 SENSE 2
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "03943010-n"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "object"
+          5 SENSE 2
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "n"
+        4 WORDNET_OFFSET 3943010
+
+0 @8974123@ WORD_MEANING
+  1 PART_OF_SPEECH "n"
+  1 VARIANTS
+    2 LITERAL "limestone"
+      3 SENSE 1
+      3 DEFINITION "a sedimentary rock consisting mainly of calcium that was deposited by the remains of marine animals"
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "08974123-n"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "rock"
+          5 SENSE 5
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "sedimentary rock"
+          5 SENSE 1
+    2 RELATION "has_holo_portion"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "calcite"
+          5 SENSE 1
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "n"
+        4 WORDNET_OFFSET 8974123
+
+0 @4134160@ WORD_MEANING
+  1 PART_OF_SPEECH "n"
+  1 VARIANTS
+    2 LITERAL "Hare Krishna"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "04134160-n"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "Krishnaism"
+          5 SENSE 1
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "n"
+        4 WORDNET_OFFSET 4134160
+
+0 @7330753@ WORD_MEANING
+  1 PART_OF_SPEECH "n"
+  1 VARIANTS
+    2 LITERAL "rockrose"
+      3 SENSE 2
+      3 DEFINITION "small shrubs of scrub and dry woodland regions of S Europe and N Africa; grown for their showy crepelike flowers and soft often downy and aromatic evergreen foliage"
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "07330753-n"
+    2 LITERAL "rock rose"
+      3 SENSE 2
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "07330753-n"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "shrub"
+          5 SENSE 1
+    2 RELATION "has_mero_member"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "Cistus"
+          5 SENSE 1
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "white-leaved rockrose"
+          5 SENSE 1
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "common gum cistus"
+          5 SENSE 1
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "n"
+        4 WORDNET_OFFSET 7330753
+
+0 @7627444@ WORD_MEANING
+  1 PART_OF_SPEECH "n"
+  1 VARIANTS
+    2 LITERAL "apple geranium"
+      3 SENSE 1
+      3 DEFINITION "geranium with round fragrant leaves and small white flowers"
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "07627444-n"
+    2 LITERAL "nutmet geranium"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "07627444-n"
+    2 LITERAL "Pelargonium odoratissimum"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "07627444-n"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "geranium"
+          5 SENSE 1
+    2 RELATION "has_mero_member"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "Pelargonium"
+          5 SENSE 1
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "n"
+        4 WORDNET_OFFSET 7627444
+
+0 @5403208@ WORD_MEANING
+  1 PART_OF_SPEECH "n"
+  1 VARIANTS
+    2 LITERAL "dig"
+      3 SENSE 4
+      3 DEFINITION "the site of an archeological exploration"
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "05403208-n"
+    2 LITERAL "excavation"
+      3 SENSE 4
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "05403208-n"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "site"
+          5 SENSE 1
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "n"
+        4 WORDNET_OFFSET 5403208
+
+0 @7693893@ WORD_MEANING
+  1 PART_OF_SPEECH "n"
+  1 VARIANTS
+    2 LITERAL "Anacardiaceae"
+      3 SENSE 1
+      3 DEFINITION "cashew family; trees and shrubs and vines having resinous sometimes poisonous juice: cashew; mango; pistachio; poison ivy; sumac"
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "07693893-n"
+    2 LITERAL "family Anacardiaceae"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "07693893-n"
+    2 LITERAL "sumac family"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "07693893-n"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "dicot family"
+          5 SENSE 1
+    2 RELATION "has_mero_member"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "Sapindales"
+          5 SENSE 1
+    2 RELATION "has_holo_member"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "Anacardium"
+          5 SENSE 1
+    2 RELATION "has_holo_member"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "Astronium"
+          5 SENSE 1
+    2 RELATION "has_holo_member"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "Cotinus"
+          5 SENSE 1
+    2 RELATION "has_holo_member"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "Malosma"
+          5 SENSE 1
+    2 RELATION "has_holo_member"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "Mangifera"
+          5 SENSE 1
+    2 RELATION "has_holo_member"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "Pistacia"
+          5 SENSE 1
+    2 RELATION "has_holo_member"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "Rhodosphaera"
+          5 SENSE 1
+    2 RELATION "has_holo_member"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "Rhus"
+          5 SENSE 1
+    2 RELATION "has_holo_member"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "Schinus"
+          5 SENSE 1
+    2 RELATION "has_holo_member"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "Spondias"
+          5 SENSE 1
+    2 RELATION "has_holo_member"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "Toxicodendron"
+          5 SENSE 1
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "n"
+        4 WORDNET_OFFSET 7693893
+
+0 @8847856@ WORD_MEANING
+  1 PART_OF_SPEECH "n"
+  1 VARIANTS
+    2 LITERAL "hornblende"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "08847856-n"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "amphibole"
+          5 SENSE 1
+    2 RELATION "has_mero_member"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "amphibole group"
+          5 SENSE 1
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "n"
+        4 WORDNET_OFFSET 8847856
+
+0 @3693110@ WORD_MEANING
+  1 PART_OF_SPEECH "n"
+  1 VARIANTS
+    2 LITERAL "basal vein"
+      3 SENSE 1
+      3 DEFINITION "a large vein passing along the medial surface of the temporal lobe and emptying into the vena cerebri magna"
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "03693110-n"
+    2 LITERAL "vena basalis"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "03693110-n"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "vein"
+          5 SENSE 2
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "n"
+        4 WORDNET_OFFSET 3693110
+
+0 @2053949@ WORD_MEANING
+  1 PART_OF_SPEECH "n"
+  1 VARIANTS
+    2 LITERAL "airline"
+      3 SENSE 2
+      3 DEFINITION "a hose that carries air under pressure"
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "02053949-n"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "hose"
+          5 SENSE 2
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "n"
+        4 WORDNET_OFFSET 2053949
+
+0 @3083157@ WORD_MEANING
+  1 PART_OF_SPEECH "n"
+  1 VARIANTS
+    2 LITERAL "skirt of tasses"
+      3 SENSE 1
+      3 DEFINITION "protects the body below the waist"
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "03083157-n"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "armor plate"
+          5 SENSE 1
+    2 RELATION "has_mero_part"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "body armor"
+          5 SENSE 1
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "n"
+        4 WORDNET_OFFSET 3083157
+
+0 @4179199@ WORD_MEANING
+  1 PART_OF_SPEECH "n"
+  1 VARIANTS
+    2 LITERAL "feminine"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "04179199-n"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "gender"
+          5 SENSE 2
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "n"
+        4 WORDNET_OFFSET 4179199
+
+0 @4309796@ WORD_MEANING
+  1 PART_OF_SPEECH "n"
+  1 VARIANTS
+    2 LITERAL "galley proof"
+      3 SENSE 1
+      3 DEFINITION "a proof taken before the type is borken up to print pages"
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "04309796-n"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "proof"
+          5 SENSE 3
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "n"
+        4 WORDNET_OFFSET 4309796
+
+0 @8444583@ WORD_MEANING
+  1 PART_OF_SPEECH "n"
+  1 VARIANTS
+    2 LITERAL "gender agreement"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "08444583-n"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "agreement"
+          5 SENSE 5
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "n"
+        4 WORDNET_OFFSET 8444583
+
+0 @2815058@ WORD_MEANING
+  1 PART_OF_SPEECH "n"
+  1 VARIANTS
+    2 LITERAL "nightclothes"
+      3 SENSE 1
+      3 DEFINITION "garments designed to be worn in bed"
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "02815058-n"
+    2 LITERAL "nightwear"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "02815058-n"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "clothing"
+          5 SENSE 1
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "lingerie"
+          5 SENSE 1
+    2 RELATION "has_holo_part"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "nightcap"
+          5 SENSE 2
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "nightgown"
+          5 SENSE 1
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "nightshirt"
+          5 SENSE 1
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "pajama"
+          5 SENSE 1
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "n"
+        4 WORDNET_OFFSET 2815058
+
+0 @8040900@ WORD_MEANING
+  1 PART_OF_SPEECH "n"
+  1 VARIANTS
+    2 LITERAL "branch"
+      3 SENSE 5
+      3 DEFINITION "a division of a stem, or secondary stem arising from the main stem of a plant"
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "08040900-n"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "stalk"
+          5 SENSE 4
+    2 RELATION "has_holo_part"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "bark"
+          5 SENSE 4
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "tree branch"
+          5 SENSE 1
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "branchlet"
+          5 SENSE 1
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "n"
+        4 WORDNET_OFFSET 8040900
+
+0 @5442862@ WORD_MEANING
+  1 PART_OF_SPEECH "n"
+  1 VARIANTS
+    2 LITERAL "perihelion"
+      3 SENSE 1
+      3 DEFINITION "the point in the orbit of a planet or comet where it is nearest to the sun"
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "05442862-n"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "celestial point"
+          5 SENSE 1
+    2 RELATION "has_mero_part"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "orbit"
+          5 SENSE 4
+    2 RELATION "near_antonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "aphelion"
+          5 SENSE 1
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "n"
+        4 WORDNET_OFFSET 5442862
+
+0 @7327376@ WORD_MEANING
+  1 PART_OF_SPEECH "n"
+  1 VARIANTS
+    2 LITERAL "Actinidia"
+      3 SENSE 1
+      3 DEFINITION "small Asiatic woody vine bearing many-seeded fruit"
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "07327376-n"
+    2 LITERAL "genus Actinidia"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "07327376-n"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "dilleniid dicot genus"
+          5 SENSE 1
+    2 RELATION "has_mero_member"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "Actinidiaceae"
+          5 SENSE 1
+    2 RELATION "has_holo_member"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "bower actinidia"
+          5 SENSE 1
+    2 RELATION "has_holo_member"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "Chinese gooseberry"
+          5 SENSE 2
+    2 RELATION "has_holo_member"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "silvervine"
+          5 SENSE 1
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "n"
+        4 WORDNET_OFFSET 7327376
+
+0 @1474843@ WORD_MEANING
+  1 PART_OF_SPEECH "a"
+  1 VARIANTS
+    2 LITERAL "nonrandom"
+      3 SENSE 1
+      3 DEFINITION "not random"
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "01474843-a"
+  1 INTERNAL_LINKS
+    2 RELATION "near_synonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "a"
+        4 LITERAL "orderly"
+          5 SENSE 4
+    2 RELATION "near_synonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "a"
+        4 LITERAL "purposive"
+          5 SENSE 2
+    2 RELATION "near_antonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "a"
+        4 LITERAL "random"
+          5 SENSE 3
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "a"
+        4 WORDNET_OFFSET 1474843
+
+0 @2941986@ WORD_MEANING
+  1 PART_OF_SPEECH "n"
+  1 VARIANTS
+    2 LITERAL "proving ground"
+      3 SENSE 1
+      3 DEFINITION "a place for testing new equipment or ideas"
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "02941986-n"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "workplace"
+          5 SENSE 1
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "n"
+        4 WORDNET_OFFSET 2941986
+
+0 @1489753@ WORD_MEANING
+  1 PART_OF_SPEECH "n"
+  1 VARIANTS
+    2 LITERAL "bobtail"
+      3 SENSE 1
+      3 DEFINITION "a short or shortened tail of certain animals"
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "01489753-n"
+    2 LITERAL "dock"
+      3 SENSE 2
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "01489753-n"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "tail"
+          5 SENSE 1
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "n"
+        4 WORDNET_OFFSET 1489753
+
+0 @1827962@ WORD_MEANING
+  1 PART_OF_SPEECH "n"
+  1 VARIANTS
+    2 LITERAL "Brosmius"
+      3 SENSE 1
+      3 DEFINITION "cusk"
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "01827962-n"
+    2 LITERAL "genus Browmius"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "01827962-n"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "fish genus"
+          5 SENSE 1
+    2 RELATION "has_mero_member"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "Gadidae"
+          5 SENSE 1
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "n"
+        4 WORDNET_OFFSET 1827962
+
+0 @740363@ WORD_MEANING
+  1 PART_OF_SPEECH "a"
+  1 VARIANTS
+    2 LITERAL "curable"
+      3 SENSE 1
+      3 DEFINITION "being such that curing or healing is possible: "curable diseases""
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "00740363-a"
+  1 INTERNAL_LINKS
+    2 RELATION "near_antonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "a"
+        4 LITERAL "incurable"
+          5 SENSE 2
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "a"
+        4 WORDNET_OFFSET 740363
+
+0 @208519@ WORD_MEANING
+  1 PART_OF_SPEECH "a"
+  1 VARIANTS
+    2 LITERAL "upper-middle-class"
+      3 SENSE 1
+      3 DEFINITION "occupying the upper part of the middle socioeconomic range in a society"
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "00208519-a"
+  1 INTERNAL_LINKS
+    2 RELATION "near_synonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "a"
+        4 LITERAL "middle-class"
+          5 SENSE 1
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "a"
+        4 WORDNET_OFFSET 208519
+
+0 @4090044@ WORD_MEANING
+  1 PART_OF_SPEECH "n"
+  1 VARIANTS
+    2 LITERAL "social science"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "04090044-n"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "science"
+          5 SENSE 1
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "civics"
+          5 SENSE 1
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "anthropology"
+          5 SENSE 1
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "politics"
+          5 SENSE 2
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "home economics"
+          5 SENSE 1
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "economics"
+          5 SENSE 1
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "sociology"
+          5 SENSE 1
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "penology"
+          5 SENSE 1
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "n"
+        4 WORDNET_OFFSET 4090044
+
+0 @7080555@ WORD_MEANING
+  1 PART_OF_SPEECH "n"
+  1 VARIANTS
+    2 LITERAL "brome"
+      3 SENSE 1
+      3 DEFINITION "any of various woodland and meadow grasses of the genus Bromus; native to temperate regions"
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "07080555-n"
+    2 LITERAL "bromegrass"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "07080555-n"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "grass"
+          5 SENSE 2
+    2 RELATION "has_mero_member"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "Bromus"
+          5 SENSE 1
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "awnless bromegrass"
+          5 SENSE 1
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "chess"
+          5 SENSE 2
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "downy brome"
+          5 SENSE 1
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "field brome"
+          5 SENSE 1
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "Japanese brome"
+          5 SENSE 1
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "n"
+        4 WORDNET_OFFSET 7080555
+
+0 @4227911@ WORD_MEANING
+  1 PART_OF_SPEECH "n"
+  1 VARIANTS
+    2 LITERAL "desk dictionary"
+      3 SENSE 1
+      3 DEFINITION "an abridged dictionary of a size convenient to hold in the hand"
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "04227911-n"
+    2 LITERAL "collegiate dictionary"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "04227911-n"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "dictionary"
+          5 SENSE 1
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "n"
+        4 WORDNET_OFFSET 4227911
+
+0 @1686019@ WORD_MEANING
+  1 PART_OF_SPEECH "a"
+  1 VARIANTS
+    2 LITERAL "many"
+      3 SENSE 3
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "01686019-a"
+  1 INTERNAL_LINKS
+    2 RELATION "near_synonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "a"
+        4 LITERAL "multiple"
+          5 SENSE 1
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "a"
+        4 WORDNET_OFFSET 1686019
+
+0 @1677039@ WORD_MEANING
+  1 PART_OF_SPEECH "n"
+  1 VARIANTS
+    2 LITERAL "Cynomys"
+      3 SENSE 1
+      3 DEFINITION "prairie dogs"
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "01677039-n"
+    2 LITERAL "genus Cynomys"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "01677039-n"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "mammal genus"
+          5 SENSE 1
+    2 RELATION "has_mero_member"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "Sciuridae"
+          5 SENSE 1
+    2 RELATION "has_holo_member"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "prairie dog"
+          5 SENSE 1
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "n"
+        4 WORDNET_OFFSET 1677039
+
+0 @1290394@ WORD_MEANING
+  1 PART_OF_SPEECH "n"
+  1 VARIANTS
+    2 LITERAL "garden snail"
+      3 SENSE 1
+      3 DEFINITION "any of several nonedible snails of the genus Helix; often destructive pests"
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "01290394-n"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "snail"
+          5 SENSE 1
+    2 RELATION "has_mero_member"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "Helix"
+          5 SENSE 1
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "brown snail"
+          5 SENSE 1
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "Helix hortensis"
+          5 SENSE 1
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "n"
+        4 WORDNET_OFFSET 1290394
+
+0 @831685@ WORD_MEANING
+  1 PART_OF_SPEECH "v"
+  1 VARIANTS
+    2 LITERAL "nibble"
+      3 SENSE 3
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "00831685-v"
+    2 LITERAL "bite at"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "00831685-v"
+    2 LITERAL "eat at"
+      3 SENSE 2
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "00831685-v"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "v"
+        4 LITERAL "bite"
+          5 SENSE 1
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "v"
+        4 WORDNET_OFFSET 831685
+
+0 @7251095@ WORD_MEANING
+  1 PART_OF_SPEECH "n"
+  1 VARIANTS
+    2 LITERAL "rosita"
+      3 SENSE 1
+      3 DEFINITION "erect plant with small clusters of pink trumpet-shaped flowers of SW US"
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "07251095-n"
+    2 LITERAL "Centaurium calycosum"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "07251095-n"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "centaury"
+          5 SENSE 3
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "n"
+        4 WORDNET_OFFSET 7251095
+
+0 @360216@ WORD_MEANING
+  1 PART_OF_SPEECH "a"
+  1 VARIANTS
+    2 LITERAL "unusual"
+      3 SENSE 2
+      3 DEFINITION "not usual or common or ordinary: "unusual beauty"; "had unusual ability"; "cruel and unusual punishment"; "an unusual meteorite""
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "00360216-a"
+    2 LITERAL "extraordinary"
+      3 SENSE 5
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "00360216-a"
+  1 INTERNAL_LINKS
+    2 RELATION "near_synonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "a"
+        4 LITERAL "odd"
+          5 SENSE 1
+    2 RELATION "near_synonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "a"
+        4 LITERAL "other"
+          5 SENSE 1
+    2 RELATION "near_synonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "a"
+        4 LITERAL "uncommon"
+          5 SENSE 2
+    2 RELATION "fuzzynym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "a"
+        4 LITERAL "uncommon"
+          5 SENSE 1
+    2 RELATION "xpos_fuzzynym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "usualness"
+          5 SENSE 1
+    2 RELATION "near_antonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "a"
+        4 LITERAL "usual"
+          5 SENSE 1
+    2 RELATION "near_synonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "a"
+        4 LITERAL "different"
+          5 SENSE 1
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "a"
+        4 WORDNET_OFFSET 360216
+
+0 @3512448@ WORD_MEANING
+  1 PART_OF_SPEECH "n"
+  1 VARIANTS
+    2 LITERAL "underbelly"
+      3 SENSE 1
+      3 DEFINITION ""the soft underbelly of the Axis"- Winston Churchill"
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "03512448-n"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "weak part"
+          5 SENSE 1
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "n"
+        4 WORDNET_OFFSET 3512448
+
+0 @4749217@ WORD_MEANING
+  1 PART_OF_SPEECH "n"
+  1 VARIANTS
+    2 LITERAL "slack water"
+      3 SENSE 1
+      3 DEFINITION "at the turn of the (low) tide the water is relatively still"
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "04749217-n"
+    2 LITERAL "slack tide"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "04749217-n"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "tide"
+          5 SENSE 1
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "n"
+        4 WORDNET_OFFSET 4749217
+
+0 @261066@ WORD_MEANING
+  1 PART_OF_SPEECH "n"
+  1 VARIANTS
+    2 LITERAL "outdoor game"
+      3 SENSE 1
+      3 DEFINITION "an athletic game that is played outdoors"
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "00261066-n"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "athletic game"
+          5 SENSE 1
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "day game"
+          5 SENSE 1
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "night game"
+          5 SENSE 1
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "golf"
+          5 SENSE 1
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "croquet"
+          5 SENSE 1
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "quoits"
+          5 SENSE 1
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "shuffleboard"
+          5 SENSE 1
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "field game"
+          5 SENSE 1
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "n"
+        4 WORDNET_OFFSET 261066
+
+0 @361565@ WORD_MEANING
+  1 PART_OF_SPEECH "b"
+  1 VARIANTS
+    2 LITERAL "upcountry"
+      3 SENSE 1
+      3 DEFINITION "to or in the interior of a country or region; "They live upcountry""
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "00361565-b"
+    2 LITERAL "up-country"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "00361565-b"
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "b"
+        4 WORDNET_OFFSET 361565
+
+0 @4448366@ WORD_MEANING
+  1 PART_OF_SPEECH "n"
+  1 VARIANTS
+    2 LITERAL "macron"
+      3 SENSE 1
+      3 DEFINITION "a diacritical mark (-) placed above a vowel to indicate a long sound"
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "04448366-n"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "diacritical mark"
+          5 SENSE 1
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "n"
+        4 WORDNET_OFFSET 4448366
+
+0 @328497@ WORD_MEANING
+  1 PART_OF_SPEECH "b"
+  1 VARIANTS
+    2 LITERAL "seventhly"
+      3 SENSE 1
+      3 DEFINITION "in the seventh place; "Seventhly, you have no right to cancel the lease in mid-year""
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "00328497-b"
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "b"
+        4 WORDNET_OFFSET 328497
+
+0 @5488080@ WORD_MEANING
+  1 PART_OF_SPEECH "n"
+  1 VARIANTS
+    2 LITERAL "European country"
+      3 SENSE 1
+      3 DEFINITION "countries occupying the European continent"
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "05488080-n"
+    2 LITERAL "European nation"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "05488080-n"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "country"
+          5 SENSE 3
+    2 RELATION "has_mero_part"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "Europe"
+          5 SENSE 1
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "Scandinavian country"
+          5 SENSE 1
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "Balkan country"
+          5 SENSE 1
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "Czechoslovakia"
+          5 SENSE 1
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "Germany"
+          5 SENSE 1
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "East Germany"
+          5 SENSE 1
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "Finland"
+          5 SENSE 1
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "Italy"
+          5 SENSE 1
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "Austria"
+          5 SENSE 1
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "Flanders"
+          5 SENSE 1
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "Belgium"
+          5 SENSE 1
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "England"
+          5 SENSE 1
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "Northern Ireland"
+          5 SENSE 1
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "Ireland"
+          5 SENSE 2
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "Scotland"
+          5 SENSE 1
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "France"
+          5 SENSE 1
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "Holland"
+          5 SENSE 1
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "Hungary"
+          5 SENSE 1
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "Liechtenstein"
+          5 SENSE 1
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "Luxembourg"
+          5 SENSE 1
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "Monaco"
+          5 SENSE 1
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "Poland"
+          5 SENSE 1
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "Portugal"
+          5 SENSE 1
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "San Marino"
+          5 SENSE 1
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "Andorra"
+          5 SENSE 1
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "Spain"
+          5 SENSE 1
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "Switzerland"
+          5 SENSE 1
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "Vatican City"
+          5 SENSE 1
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "n"
+        4 WORDNET_OFFSET 5488080
+
+0 @4087695@ WORD_MEANING
+  1 PART_OF_SPEECH "n"
+  1 VARIANTS
+    2 LITERAL "psycholinguistics"
+      3 SENSE 1
+      3 DEFINITION "the branch of cognitive psychology that studies the psychological basis of linguistic competence and performance"
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "04087695-n"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "cognitive psychology"
+          5 SENSE 1
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "n"
+        4 WORDNET_OFFSET 4087695
+
+0 @1603898@ WORD_MEANING
+  1 PART_OF_SPEECH "n"
+  1 VARIANTS
+    2 LITERAL "large white"
+      3 SENSE 1
+      3 DEFINITION "Old World form"
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "01603898-n"
+    2 LITERAL "Pieris brassicae"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "01603898-n"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "cabbage butterfly"
+          5 SENSE 1
+    2 RELATION "has_mero_member"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "Pieris"
+          5 SENSE 1
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "n"
+        4 WORDNET_OFFSET 1603898
+
+0 @3470870@ WORD_MEANING
+  1 PART_OF_SPEECH "n"
+  1 VARIANTS
+    2 LITERAL "purplish blue"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "03470870-n"
+    2 LITERAL "royal blue"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "03470870-n"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "blue"
+          5 SENSE 4
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "n"
+        4 WORDNET_OFFSET 3470870
+
+0 @3051981@ WORD_MEANING
+  1 PART_OF_SPEECH "n"
+  1 VARIANTS
+    2 LITERAL "set square"
+      3 SENSE 1
+      3 DEFINITION "a try square with an adjustable sliding head"
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "03051981-n"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "try square"
+          5 SENSE 1
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "n"
+        4 WORDNET_OFFSET 3051981
+
+0 @486711@ WORD_MEANING
+  1 PART_OF_SPEECH "n"
+  1 VARIANTS
+    2 LITERAL "estimate"
+      3 SENSE 2
+      3 DEFINITION "a judgment of the qualities of something or somebody; "many factors are involved in any estimate of human life"; "in my estimation the boy is innocent""
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "00486711-n"
+    2 LITERAL "estimation"
+      3 SENSE 2
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "00486711-n"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "judgment"
+          5 SENSE 3
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "capitalization"
+          5 SENSE 4
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "scalage"
+          5 SENSE 2
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "n"
+        4 WORDNET_OFFSET 486711
+
+0 @6023683@ WORD_MEANING
+  1 PART_OF_SPEECH "n"
+  1 VARIANTS
+    2 LITERAL "cotter"
+      3 SENSE 3
+      3 DEFINITION "a peasant farmer in the Scottish highlands"
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "06023683-n"
+    2 LITERAL "cottar"
+      3 SENSE 2
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "06023683-n"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "peasant"
+          5 SENSE 1
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "n"
+        4 WORDNET_OFFSET 6023683
+
+0 @188690@ WORD_MEANING
+  1 PART_OF_SPEECH "a"
+  1 VARIANTS
+    2 LITERAL "unidirectional"
+      3 SENSE 1
+      3 DEFINITION "operating or moving or allowing movement in one direction only: "a unidirectonal flow"; "a unidirectional antenna"; "a unidirectional approach to a problem""
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "00188690-a"
+  1 INTERNAL_LINKS
+    2 RELATION "near_synonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "a"
+        4 LITERAL "one-way"
+          5 SENSE 1
+    2 RELATION "near_synonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "a"
+        4 LITERAL "simplex"
+          5 SENSE 1
+    2 RELATION "near_synonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "a"
+        4 LITERAL "unifacial"
+          5 SENSE 1
+    2 RELATION "near_antonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "a"
+        4 LITERAL "bidirectional"
+          5 SENSE 1
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "a"
+        4 WORDNET_OFFSET 188690
+
+0 @5258305@ WORD_MEANING
+  1 PART_OF_SPEECH "n"
+  1 VARIANTS
+    2 LITERAL "cocktail party"
+      3 SENSE 1
+      3 DEFINITION "an afternoon party at which cocktails are served"
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "05258305-n"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "party"
+          5 SENSE 2
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "n"
+        4 WORDNET_OFFSET 5258305
+
+0 @1579691@ WORD_MEANING
+  1 PART_OF_SPEECH "a"
+  1 VARIANTS
+    2 LITERAL "safe(p)"
+      3 SENSE 3
+      3 DEFINITION "(baseball) having reached a base without being put out: "the runner was called safe when the baseman dropped the ball""
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "01579691-a"
+  1 INTERNAL_LINKS
+    2 RELATION "near_antonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "a"
+        4 LITERAL "out(p)"
+          5 SENSE 6
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "a"
+        4 WORDNET_OFFSET 1579691
+
+0 @480456@ WORD_MEANING
+  1 PART_OF_SPEECH "n"
+  1 VARIANTS
+    2 LITERAL "kinesis"
+      3 SENSE 1
+      3 DEFINITION "a movement that is a response to a stimulus but is not oriented with respect to the source of stimulation"
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "00480456-n"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "reaction"
+          5 SENSE 1
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "n"
+        4 WORDNET_OFFSET 480456
+
+0 @7278642@ WORD_MEANING
+  1 PART_OF_SPEECH "n"
+  1 VARIANTS
+    2 LITERAL "pignut"
+      3 SENSE 1
+      3 DEFINITION "an American hickory tree having bitter nuts"
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "07278642-n"
+    2 LITERAL "pignut hickory"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "07278642-n"
+    2 LITERAL "brown hickory"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "07278642-n"
+    2 LITERAL "black hickory"
+      3 SENSE 2
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "07278642-n"
+    2 LITERAL "Carya glabra"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "07278642-n"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "hickory"
+          5 SENSE 1
+    2 RELATION "has_mero_member"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "Carya"
+          5 SENSE 1
+    2 RELATION "has_holo_part"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "hognut"
+          5 SENSE 1
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "n"
+        4 WORDNET_OFFSET 7278642
+
+0 @5220622@ WORD_MEANING
+  1 PART_OF_SPEECH "n"
+  1 VARIANTS
+    2 LITERAL "livery company"
+      3 SENSE 1
+      3 DEFINITION "one of the chartered companies of London originating with the craft guilds"
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "05220622-n"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "company"
+          5 SENSE 2
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "n"
+        4 WORDNET_OFFSET 5220622
+
+0 @967057@ WORD_MEANING
+  1 PART_OF_SPEECH "n"
+  1 VARIANTS
+    2 LITERAL "wall creeper"
+      3 SENSE 1
+      3 DEFINITION "crimson-and-gray songbird that inhabits town walls and mountain cliffs of southern Eurasia and northern Africa"
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "00967057-n"
+    2 LITERAL "tichodrome"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "00967057-n"
+    2 LITERAL "Tichodroma muriaria"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "00967057-n"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "creeper"
+          5 SENSE 1
+    2 RELATION "has_mero_member"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "Tichodroma"
+          5 SENSE 1
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "n"
+        4 WORDNET_OFFSET 967057
+
+0 @418433@ WORD_MEANING
+  1 PART_OF_SPEECH "a"
+  1 VARIANTS
+    2 LITERAL "partitive"
+      3 SENSE 1
+      3 DEFINITION "serving to separate or divide into parts: "partitive tendencies in education"; "the uniting influence was stronger than the separative""
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "00418433-a"
+    2 LITERAL "separative"
+      3 SENSE 2
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "00418433-a"
+  1 INTERNAL_LINKS
+    2 RELATION "near_synonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "a"
+        4 LITERAL "disjunctive"
+          5 SENSE 1
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "a"
+        4 WORDNET_OFFSET 418433
+
+0 @5987949@ WORD_MEANING
+  1 PART_OF_SPEECH "n"
+  1 VARIANTS
+    2 LITERAL "cavalier"
+      3 SENSE 1
+      3 DEFINITION "a gallant or courtly gentleman"
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "05987949-n"
+    2 LITERAL "chevalier"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "05987949-n"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "male aristocrat"
+          5 SENSE 1
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "n"
+        4 WORDNET_OFFSET 5987949
+
+0 @7019479@ WORD_MEANING
+  1 PART_OF_SPEECH "n"
+  1 VARIANTS
+    2 LITERAL "Bletilla"
+      3 SENSE 1
+      3 DEFINITION "small genus of chiefly E Asiatic hardy terrestrial orchids similar to genus Bletia"
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "07019479-n"
+    2 LITERAL "genus Bletilla"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "07019479-n"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "monocot genus"
+          5 SENSE 1
+    2 RELATION "has_mero_member"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "Orchidaceae"
+          5 SENSE 1
+    2 RELATION "has_holo_member"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "Bletilla striata"
+          5 SENSE 1
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "n"
+        4 WORDNET_OFFSET 7019479
+
+0 @625873@ WORD_MEANING
+  1 PART_OF_SPEECH "v"
+  1 VARIANTS
+    2 LITERAL "out-herod"
+      3 SENSE 1
+      3 DEFINITION "surpass someone in cruelty or eviln"
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "00625873-v"
+    2 LITERAL "out-Herod"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "00625873-v"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "v"
+        4 LITERAL "surpass"
+          5 SENSE 1
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "v"
+        4 WORDNET_OFFSET 625873
+
+0 @1027356@ WORD_MEANING
+  1 PART_OF_SPEECH "v"
+  1 VARIANTS
+    2 LITERAL "cozy up to"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "01027356-v"
+    2 LITERAL "cotton up to"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "01027356-v"
+    2 LITERAL "shine up to"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "01027356-v"
+    2 LITERAL "play up to"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "01027356-v"
+    2 LITERAL "sidle up to"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "01027356-v"
+    2 LITERAL "suck up to"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "01027356-v"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "v"
+        4 LITERAL "ingratiate"
+          5 SENSE 1
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "v"
+        4 WORDNET_OFFSET 1027356
+
+0 @1118574@ WORD_MEANING
+  1 PART_OF_SPEECH "a"
+  1 VARIANTS
+    2 LITERAL "secondary"
+      3 SENSE 2
+      3 DEFINITION ""played a secondary role in world events""
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "01118574-a"
+  1 INTERNAL_LINKS
+    2 RELATION "near_synonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "a"
+        4 LITERAL "minor"
+          5 SENSE 7
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "a"
+        4 WORDNET_OFFSET 1118574
+
+0 @6373159@ WORD_MEANING
+  1 PART_OF_SPEECH "n"
+  1 VARIANTS
+    2 LITERAL "stepfather"
+      3 SENSE 1
+      3 DEFINITION "the husband of your mother by a subsequent marriage"
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "06373159-n"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "stepparent"
+          5 SENSE 1
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "n"
+        4 WORDNET_OFFSET 6373159
+
+0 @1030629@ WORD_MEANING
+  1 PART_OF_SPEECH "a"
+  1 VARIANTS
+    2 LITERAL "jutting"
+      3 SENSE 3
+      3 DEFINITION "extending beyond other things or a boundary: "his protruding ribs"; "the jutting limb of a tree"; "a pile of boards sticking over the end of his truck""
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "01030629-a"
+    2 LITERAL "projecting"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "01030629-a"
+    2 LITERAL "protruding"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "01030629-a"
+    2 LITERAL "sticking(p)"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "01030629-a"
+    2 LITERAL "sticking out(p)"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "01030629-a"
+  1 INTERNAL_LINKS
+    2 RELATION "near_synonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "a"
+        4 LITERAL "protrusive"
+          5 SENSE 1
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "a"
+        4 WORDNET_OFFSET 1030629
+
+0 @3519987@ WORD_MEANING
+  1 PART_OF_SPEECH "n"
+  1 VARIANTS
+    2 LITERAL "imperishability"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "03519987-n"
+    2 LITERAL "imperishingness"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "03519987-n"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "permanence"
+          5 SENSE 1
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "n"
+        4 WORDNET_OFFSET 3519987
+
+0 @717316@ WORD_MEANING
+  1 PART_OF_SPEECH "v"
+  1 VARIANTS
+    2 LITERAL "carve"
+      3 SENSE 3
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "00717316-v"
+    2 LITERAL "chip at"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "00717316-v"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "v"
+        4 LITERAL "cut"
+          5 SENSE 15
+    2 RELATION "fuzzynym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "v"
+        4 LITERAL "chip"
+          5 SENSE 1
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "v"
+        4 WORDNET_OFFSET 717316
+
+0 @5983131@ WORD_MEANING
+  1 PART_OF_SPEECH "n"
+  1 VARIANTS
+    2 LITERAL "cannibal"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "05983131-n"
+    2 LITERAL "man-eater"
+      3 SENSE 2
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "05983131-n"
+    2 LITERAL "anthropophagus"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "05983131-n"
+    2 LITERAL "anthropophagite"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "05983131-n"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "savage"
+          5 SENSE 1
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "n"
+        4 WORDNET_OFFSET 5983131
+
+0 @351461@ WORD_MEANING
+  1 PART_OF_SPEECH "v"
+  1 VARIANTS
+    2 LITERAL "misread"
+      3 SENSE 1
+      3 DEFINITION ""I misread Hamlet all my life!""
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "00351461-v"
+    2 LITERAL "mis-read"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "00351461-v"
+    2 LITERAL "misinterpret"
+      3 SENSE 2
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "00351461-v"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "v"
+        4 LITERAL "take"
+          5 SENSE 8
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "v"
+        4 WORDNET_OFFSET 351461
+
+0 @1270767@ WORD_MEANING
+  1 PART_OF_SPEECH "a"
+  1 VARIANTS
+    2 LITERAL "unstopped"
+      3 SENSE 1
+      3 DEFINITION "(music) used of string or hole or pipe of instruments"
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "01270767-a"
+    2 LITERAL "open"
+      3 SENSE 13
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "01270767-a"
+  1 INTERNAL_LINKS
+    2 RELATION "near_antonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "a"
+        4 LITERAL "stopped"
+          5 SENSE 1
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "a"
+        4 WORDNET_OFFSET 1270767
+
+0 @2473876@ WORD_MEANING
+  1 PART_OF_SPEECH "n"
+  1 VARIANTS
+    2 LITERAL "engine block"
+      3 SENSE 1
+      3 DEFINITION "a metal casting containing the cylinders and cooling ducts of an engine; "the engine had to be replaced because the block was cracked""
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "02473876-n"
+    2 LITERAL "cylinder block"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "02473876-n"
+    2 LITERAL "block"
+      3 SENSE 5
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "02473876-n"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "cast"
+          5 SENSE 1
+    2 RELATION "has_mero_part"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "internal-combustion engine"
+          5 SENSE 1
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "n"
+        4 WORDNET_OFFSET 2473876
+
+0 @4880638@ WORD_MEANING
+  1 PART_OF_SPEECH "n"
+  1 VARIANTS
+    2 LITERAL "applesauce cake"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "04880638-n"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "cake"
+          5 SENSE 2
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "n"
+        4 WORDNET_OFFSET 4880638
+
+0 @1086337@ WORD_MEANING
+  1 PART_OF_SPEECH "n"
+  1 VARIANTS
+    2 LITERAL "stenopterygius"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "01086337-n"
+    2 LITERAL "Stenopterygius quadrisicissus"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "01086337-n"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "ichthyosaur"
+          5 SENSE 1
+    2 RELATION "has_mero_member"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "genus Stenopterygius"
+          5 SENSE 1
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "n"
+        4 WORDNET_OFFSET 1086337
+
+0 @617707@ WORD_MEANING
+  1 PART_OF_SPEECH "n"
+  1 VARIANTS
+    2 LITERAL "dumping"
+      3 SENSE 1
+      3 DEFINITION "selling goods abroad at a price below that charged in the domestic market"
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "00617707-n"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "selling"
+          5 SENSE 1
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "n"
+        4 WORDNET_OFFSET 617707
+
+0 @7295293@ WORD_MEANING
+  1 PART_OF_SPEECH "n"
+  1 VARIANTS
+    2 LITERAL "cider gum"
+      3 SENSE 1
+      3 DEFINITION "small to medium-sized tree of Tasmania"
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "07295293-n"
+    2 LITERAL "Eucalypt gunnii"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "07295293-n"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "flooded gum"
+          5 SENSE 1
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "n"
+        4 WORDNET_OFFSET 7295293
+
+0 @772616@ WORD_MEANING
+  1 PART_OF_SPEECH "n"
+  1 VARIANTS
+    2 LITERAL "Spirochaetales"
+      3 SENSE 1
+      3 DEFINITION "higher bacteria; slender spiral rodlike forms"
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "00772616-n"
+    2 LITERAL "order Spirochaetales"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "00772616-n"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "animal order"
+          5 SENSE 1
+    2 RELATION "has_mero_member"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "division Eubacteria"
+          5 SENSE 1
+    2 RELATION "has_holo_member"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "Spirochaetaceae"
+          5 SENSE 1
+    2 RELATION "has_holo_member"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "spirochete"
+          5 SENSE 1
+    2 RELATION "has_holo_member"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "Treponemataceae"
+          5 SENSE 1
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "n"
+        4 WORDNET_OFFSET 772616
+
+0 @1697223@ WORD_MEANING
+  1 PART_OF_SPEECH "n"
+  1 VARIANTS
+    2 LITERAL "tarpan"
+      3 SENSE 1
+      3 DEFINITION "European wild horse extinct since the early 20th century"
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "01697223-n"
+    2 LITERAL "Equus caballus gomelini"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "01697223-n"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "wild horse"
+          5 SENSE 1
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "n"
+        4 WORDNET_OFFSET 1697223
+
+0 @61241@ WORD_MEANING
+  1 PART_OF_SPEECH "v"
+  1 VARIANTS
+    2 LITERAL "blush"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "00061241-v"
+    2 LITERAL "turn red"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "00061241-v"
+    2 LITERAL "grow red"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "00061241-v"
+    2 LITERAL "crimson"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "00061241-v"
+    2 LITERAL "flush"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "00061241-v"
+    2 LITERAL "redden"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "00061241-v"
+    2 LITERAL "become red"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "00061241-v"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "v"
+        4 LITERAL "discolor"
+          5 SENSE 1
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "v"
+        4 WORDNET_OFFSET 61241
+
+0 @2730178@ WORD_MEANING
+  1 PART_OF_SPEECH "n"
+  1 VARIANTS
+    2 LITERAL "Vatican"
+      3 SENSE 1
+      3 DEFINITION "the residence of the Catholic Pope in the Vatican City"
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "02730178-n"
+    2 LITERAL "Vatican Palace"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "02730178-n"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "residence"
+          5 SENSE 2
+    2 RELATION "has_mero_part"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "Vatican City"
+          5 SENSE 1
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "n"
+        4 WORDNET_OFFSET 2730178
+
+0 @8830570@ WORD_MEANING
+  1 PART_OF_SPEECH "n"
+  1 VARIANTS
+    2 LITERAL "shellac"
+      3 SENSE 1
+      3 DEFINITION "lac purified by heating and filtering; usu in thin orange or yellow flakes but sometimes bleached white"
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "08830570-n"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "lac"
+          5 SENSE 1
+    2 RELATION "has_holo_portion"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "stick lac"
+          5 SENSE 1
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "n"
+        4 WORDNET_OFFSET 8830570
+
+0 @1938023@ WORD_MEANING
+  1 PART_OF_SPEECH "n"
+  1 VARIANTS
+    2 LITERAL "rockfish"
+      3 SENSE 2
+      3 DEFINITION "marine food fish found among rocks along the northern coasts of Europe and America"
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "01938023-n"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "scorpaenid"
+          5 SENSE 1
+    2 RELATION "has_mero_member"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "Sebastodes"
+          5 SENSE 1
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "copper rockfish"
+          5 SENSE 1
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "vermillion rockfish"
+          5 SENSE 1
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "red rockfish"
+          5 SENSE 1
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "rosefish"
+          5 SENSE 1
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "n"
+        4 WORDNET_OFFSET 1938023
+
+0 @314630@ WORD_MEANING
+  1 PART_OF_SPEECH "b"
+  1 VARIANTS
+    2 LITERAL "pruriently"
+      3 SENSE 1
+      3 DEFINITION "in a prurient manner"
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "00314630-b"
+  1 INTERNAL_LINKS
+    2 RELATION "is_derived_from"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "a"
+        4 LITERAL "lubricious"
+          5 SENSE 1
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "b"
+        4 WORDNET_OFFSET 314630
+
+0 @830206@ WORD_MEANING
+  1 PART_OF_SPEECH "a"
+  1 VARIANTS
+    2 LITERAL "fueled"
+      3 SENSE 1
+      3 DEFINITION "supplied with or powered by fuel"
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "00830206-a"
+  1 INTERNAL_LINKS
+    2 RELATION "near_synonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "a"
+        4 LITERAL "burning"
+          5 SENSE 2
+    2 RELATION "near_synonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "a"
+        4 LITERAL "oil-fired"
+          5 SENSE 1
+    2 RELATION "near_synonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "a"
+        4 LITERAL "oxyacetylene"
+          5 SENSE 1
+    2 RELATION "near_antonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "a"
+        4 LITERAL "unfueled"
+          5 SENSE 1
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "a"
+        4 WORDNET_OFFSET 830206
+
+0 @8509590@ WORD_MEANING
+  1 PART_OF_SPEECH "n"
+  1 VARIANTS
+    2 LITERAL "quadric"
+      3 SENSE 3
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "08509590-n"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "plane figure"
+          5 SENSE 1
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "n"
+        4 WORDNET_OFFSET 8509590
+
+0 @6058777@ WORD_MEANING
+  1 PART_OF_SPEECH "n"
+  1 VARIANTS
+    2 LITERAL "driver"
+      3 SENSE 4
+      3 DEFINITION "someone who drives animals that pull a vehicle"
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "06058777-n"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "worker"
+          5 SENSE 1
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "charioteer"
+          5 SENSE 1
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "coachman"
+          5 SENSE 1
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "mahout"
+          5 SENSE 1
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "teamster"
+          5 SENSE 3
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "wagoner"
+          5 SENSE 1
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "n"
+        4 WORDNET_OFFSET 6058777
+
+0 @4458128@ WORD_MEANING
+  1 PART_OF_SPEECH "n"
+  1 VARIANTS
+    2 LITERAL "polyphone"
+      3 SENSE 1
+      3 DEFINITION "a letter that has two or more pronunciations ("c" is pronounced like k in "car"  but like s in "cell")"
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "04458128-n"
+    2 LITERAL "polyphonic letter"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "04458128-n"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "letter"
+          5 SENSE 2
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "n"
+        4 WORDNET_OFFSET 4458128
+
+0 @559605@ WORD_MEANING
+  1 PART_OF_SPEECH "n"
+  1 VARIANTS
+    2 LITERAL "systematization"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "00559605-n"
+    2 LITERAL "systematisation"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "00559605-n"
+    2 LITERAL "rationalization"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "00559605-n"
+    2 LITERAL "rationalisation"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "00559605-n"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "organization"
+          5 SENSE 2
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "codification"
+          5 SENSE 1
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "formalization"
+          5 SENSE 1
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "n"
+        4 WORDNET_OFFSET 559605
+
+0 @1407892@ WORD_MEANING
+  1 PART_OF_SPEECH "v"
+  1 VARIANTS
+    2 LITERAL "reune"
+      3 SENSE 1
+      3 DEFINITION "have a reunion"
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "01407892-v"
+    2 LITERAL "reunite"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "01407892-v"
+    2 LITERAL "unite again"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "01407892-v"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "v"
+        4 LITERAL "meet"
+          5 SENSE 12
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "v"
+        4 WORDNET_OFFSET 1407892
+
+0 @370190@ WORD_MEANING
+  1 PART_OF_SPEECH "v"
+  1 VARIANTS
+    2 LITERAL "subordinate"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "00370190-v"
+    2 LITERAL "rank as less important"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "00370190-v"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "v"
+        4 LITERAL "rate"
+          5 SENSE 1
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "v"
+        4 LITERAL "outclass"
+          5 SENSE 1
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "v"
+        4 WORDNET_OFFSET 370190
+
+0 @1207756@ WORD_MEANING
+  1 PART_OF_SPEECH "v"
+  1 VARIANTS
+    2 LITERAL "stun"
+      3 SENSE 4
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "01207756-v"
+    2 LITERAL "bedaze"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "01207756-v"
+    2 LITERAL "daze"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "01207756-v"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "v"
+        4 LITERAL "desensitize"
+          5 SENSE 2
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "v"
+        4 WORDNET_OFFSET 1207756
+
+0 @806942@ WORD_MEANING
+  1 PART_OF_SPEECH "a"
+  1 VARIANTS
+    2 LITERAL "freeze-dried"
+      3 SENSE 2
+      3 DEFINITION "preserved by freezing and drying in a vacuum"
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "00806942-a"
+  1 INTERNAL_LINKS
+    2 RELATION "near_synonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "a"
+        4 LITERAL "preserved"
+          5 SENSE 3
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "a"
+        4 WORDNET_OFFSET 806942
+
+0 @5829518@ WORD_MEANING
+  1 PART_OF_SPEECH "n"
+  1 VARIANTS
+    2 LITERAL "Forseti"
+      3 SENSE 1
+      3 DEFINITION "god of justice; son of Balder and Nanna"
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "05829518-n"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "Norse deity"
+          5 SENSE 1
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "n"
+        4 WORDNET_OFFSET 5829518
+
+0 @4157103@ WORD_MEANING
+  1 PART_OF_SPEECH "n"
+  1 VARIANTS
+    2 LITERAL "complex sentence"
+      3 SENSE 1
+      3 DEFINITION "a sentence composed of at least one main clause and one subordinate clause"
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "04157103-n"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "sentence"
+          5 SENSE 2
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "n"
+        4 WORDNET_OFFSET 4157103
+
+0 @6621274@ WORD_MEANING
+  1 PART_OF_SPEECH "n"
+  1 VARIANTS
+    2 LITERAL "red spruce"
+      3 SENSE 1
+      3 DEFINITION "medium-sized spruce of E N.America; chief lumber spruce of the area; source of pulpwood"
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "06621274-n"
+    2 LITERAL "eastern spruce"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "06621274-n"
+    2 LITERAL "yellow spruce"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "06621274-n"
+    2 LITERAL "Picea rubens"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "06621274-n"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "spruce"
+          5 SENSE 1
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "n"
+        4 WORDNET_OFFSET 6621274
+
+0 @74016@ WORD_MEANING
+  1 PART_OF_SPEECH "a"
+  1 VARIANTS
+    2 LITERAL "annoying"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "00074016-a"
+    2 LITERAL "galling"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "00074016-a"
+    2 LITERAL "chafing"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "00074016-a"
+    2 LITERAL "irritating"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "00074016-a"
+    2 LITERAL "nettlesome"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "00074016-a"
+    2 LITERAL "pesky"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "00074016-a"
+    2 LITERAL "pestiferous"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "00074016-a"
+    2 LITERAL "pestilent"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "00074016-a"
+    2 LITERAL "plaguy"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "00074016-a"
+    2 LITERAL "plaguey"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "00074016-a"
+    2 LITERAL "teasing"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "00074016-a"
+    2 LITERAL "vexatious"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "00074016-a"
+    2 LITERAL "vexing"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "00074016-a"
+  1 INTERNAL_LINKS
+    2 RELATION "near_synonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "a"
+        4 LITERAL "disagreeable"
+          5 SENSE 1
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "a"
+        4 WORDNET_OFFSET 74016
+
+0 @5915288@ WORD_MEANING
+  1 PART_OF_SPEECH "n"
+  1 VARIANTS
+    2 LITERAL "academician"
+      3 SENSE 1
+      3 DEFINITION "an educator who works at a college or university"
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "05915288-n"
+    2 LITERAL "academic"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "05915288-n"
+    2 LITERAL "faculty member"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "05915288-n"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "educator"
+          5 SENSE 1
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "professor"
+          5 SENSE 1
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "n"
+        4 WORDNET_OFFSET 5915288
+
+0 @542186@ WORD_MEANING
+  1 PART_OF_SPEECH "v"
+  1 VARIANTS
+    2 LITERAL "talk"
+      3 SENSE 2
+      3 DEFINITION "exchange thoughts; talk with;  "We often talk business"; also used metaphorically: "Actions talk louder than words""
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "00542186-v"
+    2 LITERAL "speak"
+      3 SENSE 2
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "00542186-v"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "v"
+        4 LITERAL "communicate"
+          5 SENSE 1
+    2 RELATION "fuzzynym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "v"
+        4 LITERAL "address"
+          5 SENSE 3
+    2 RELATION "fuzzynym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "v"
+        4 LITERAL "address"
+          5 SENSE 1
+    2 RELATION "fuzzynym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "v"
+        4 LITERAL "speak for"
+          5 SENSE 1
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "v"
+        4 LITERAL "continue"
+          5 SENSE 3
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "v"
+        4 LITERAL "discourse"
+          5 SENSE 1
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "v"
+        4 LITERAL "pontificate"
+          5 SENSE 1
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "v"
+        4 LITERAL "orate"
+          5 SENSE 1
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "v"
+        4 LITERAL "talk down"
+          5 SENSE 2
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "v"
+        4 LITERAL "spiel"
+          5 SENSE 1
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "v"
+        4 LITERAL "dogmatize"
+          5 SENSE 2
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "v"
+        4 LITERAL "cheek"
+          5 SENSE 1
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "v"
+        4 LITERAL "level with"
+          5 SENSE 1
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "v"
+        4 LITERAL "talk turkey"
+          5 SENSE 1
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "v"
+        4 LITERAL "monologuize"
+          5 SENSE 1
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "v"
+        4 LITERAL "converse"
+          5 SENSE 1
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "v"
+        4 LITERAL "chat up"
+          5 SENSE 1
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "v"
+        4 LITERAL "gossip"
+          5 SENSE 1
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "v"
+        4 LITERAL "rap"
+          5 SENSE 1
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "v"
+        4 WORDNET_OFFSET 542186
+
+0 @309421@ WORD_MEANING
+  1 PART_OF_SPEECH "b"
+  1 VARIANTS
+    2 LITERAL "powerfully"
+      3 SENSE 2
+      3 DEFINITION ""The federal government replaced the powerfully pro-settler Sir Godfrey Huggins with the even tougher and more determined ex-trade unionist""
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "00309421-b"
+    2 LITERAL "strongly"
+      3 SENSE 2
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "00309421-b"
+  1 INTERNAL_LINKS
+    2 RELATION "is_derived_from"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "a"
+        4 LITERAL "strong"
+          5 SENSE 10
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "b"
+        4 WORDNET_OFFSET 309421
+
+0 @2808692@ WORD_MEANING
+  1 PART_OF_SPEECH "n"
+  1 VARIANTS
+    2 LITERAL "neck"
+      3 SENSE 1
+      3 DEFINITION "the part of a garment near the neck"
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "02808692-n"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "opening"
+          5 SENSE 1
+    2 RELATION "has_mero_part"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "garment"
+          5 SENSE 1
+    2 RELATION "has_holo_part"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "collar"
+          5 SENSE 4
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "n"
+        4 WORDNET_OFFSET 2808692
+
+0 @2740065@ WORD_MEANING
+  1 PART_OF_SPEECH "n"
+  1 VARIANTS
+    2 LITERAL "lounging pajamas"
+      3 SENSE 1
+      3 DEFINITION "pajamas worn while lounging"
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "02740065-n"
+    2 LITERAL "lounging pyjamas"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "02740065-n"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "pajama"
+          5 SENSE 1
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "n"
+        4 WORDNET_OFFSET 2740065
+
+0 @5426340@ WORD_MEANING
+  1 PART_OF_SPEECH "n"
+  1 VARIANTS
+    2 LITERAL "hour circle"
+      3 SENSE 1
+      3 DEFINITION "a great circle on the celestial sphere that passes through both celestial poles"
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "05426340-n"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "great circle"
+          5 SENSE 1
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "n"
+        4 WORDNET_OFFSET 5426340
+
+0 @3910278@ WORD_MEANING
+  1 PART_OF_SPEECH "n"
+  1 VARIANTS
+    2 LITERAL "memorization"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "03910278-n"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "learning"
+          5 SENSE 1
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "rote"
+          5 SENSE 1
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "n"
+        4 WORDNET_OFFSET 3910278
+
+0 @2752935@ WORD_MEANING
+  1 PART_OF_SPEECH "n"
+  1 VARIANTS
+    2 LITERAL "sphygmomanometer"
+      3 SENSE 1
+      3 DEFINITION "a gauge for measuring blood pressure"
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "02752935-n"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "pressure gauge"
+          5 SENSE 1
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "n"
+        4 WORDNET_OFFSET 2752935
+
+0 @2039512@ WORD_MEANING
+  1 PART_OF_SPEECH "a"
+  1 VARIANTS
+    2 LITERAL "nominative"
+      3 SENSE 3
+      3 DEFINITION "(grammar) "nominative noun endings""
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "02039512-a"
+  1 INTERNAL_LINKS
+    2 RELATION "is_derived_from"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "nominative"
+          5 SENSE 1
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "a"
+        4 WORDNET_OFFSET 2039512
+
+0 @1863582@ WORD_MEANING
+  1 PART_OF_SPEECH "a"
+  1 VARIANTS
+    2 LITERAL "so(p)"
+      3 SENSE 2
+      3 DEFINITION "corresponding to truth: "a truthful statement"; "I wouldn't have told you this if it weren't so""
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "01863582-a"
+    2 LITERAL "truthful"
+      3 SENSE 2
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "01863582-a"
+  1 INTERNAL_LINKS
+    2 RELATION "near_synonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "a"
+        4 LITERAL "true"
+          5 SENSE 11
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "a"
+        4 WORDNET_OFFSET 1863582
+
+0 @932323@ WORD_MEANING
+  1 PART_OF_SPEECH "a"
+  1 VARIANTS
+    2 LITERAL "dishonest"
+      3 SENSE 2
+      3 DEFINITION "deceptive or fraudulent: disposed to cheat or defraud or deceive"
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "00932323-a"
+    2 LITERAL "dishonorable"
+      3 SENSE 5
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "00932323-a"
+  1 INTERNAL_LINKS
+    2 RELATION "near_synonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "a"
+        4 LITERAL "ambidextrous"
+          5 SENSE 1
+    2 RELATION "near_synonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "a"
+        4 LITERAL "beguiling"
+          5 SENSE 1
+    2 RELATION "near_synonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "a"
+        4 LITERAL "deceptive"
+          5 SENSE 1
+    2 RELATION "fuzzynym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "a"
+        4 LITERAL "crooked"
+          5 SENSE 4
+    2 RELATION "fuzzynym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "a"
+        4 LITERAL "dishonorable"
+          5 SENSE 1
+    2 RELATION "fuzzynym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "a"
+        4 LITERAL "false"
+          5 SENSE 8
+    2 RELATION "fuzzynym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "a"
+        4 LITERAL "insincere"
+          5 SENSE 1
+    2 RELATION "near_synonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "a"
+        4 LITERAL "picaresque"
+          5 SENSE 1
+    2 RELATION "near_synonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "a"
+        4 LITERAL "blackguardly"
+          5 SENSE 1
+    2 RELATION "near_synonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "a"
+        4 LITERAL "thieving(a)"
+          5 SENSE 1
+    2 RELATION "fuzzynym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "a"
+        4 LITERAL "untrustworthy"
+          5 SENSE 1
+    2 RELATION "near_antonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "a"
+        4 LITERAL "honest"
+          5 SENSE 3
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "a"
+        4 WORDNET_OFFSET 932323
+
+0 @1133735@ WORD_MEANING
+  1 PART_OF_SPEECH "v"
+  1 VARIANTS
+    2 LITERAL "square up"
+      3 SENSE 3
+      3 DEFINITION "even up the edges of a stack of paper, in printing"
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "01133735-v"
+    2 LITERAL "jog"
+      3 SENSE 5
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "01133735-v"
+    2 LITERAL "even up"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "01133735-v"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "v"
+        4 LITERAL "square"
+          5 SENSE 5
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "v"
+        4 WORDNET_OFFSET 1133735

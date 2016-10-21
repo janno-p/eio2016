@@ -1,0 +1,784 @@
+0 @3321973@ WORD_MEANING
+  1 PART_OF_SPEECH "n"
+  1 VARIANTS
+    2 LITERAL "appeal"
+      3 SENSE 2
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "03321973-n"
+    2 LITERAL "appealingness"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "03321973-n"
+    2 LITERAL "charm"
+      3 SENSE 2
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "03321973-n"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "attractiveness"
+          5 SENSE 1
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "winsomeness"
+          5 SENSE 1
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "n"
+        4 WORDNET_OFFSET 3321973
+
+0 @220354@ WORD_MEANING
+  1 PART_OF_SPEECH "n"
+  1 VARIANTS
+    2 LITERAL "tear"
+      3 SENSE 1
+      3 DEFINITION "the act of tearing"
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "00220354-n"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "separation"
+          5 SENSE 2
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "laceration"
+          5 SENSE 1
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "rent"
+          5 SENSE 3
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "n"
+        4 WORDNET_OFFSET 220354
+
+0 @5865081@ WORD_MEANING
+  1 PART_OF_SPEECH "n"
+  1 VARIANTS
+    2 LITERAL "Aztec"
+      3 SENSE 1
+      3 DEFINITION "a member of the Nahuatl people who established an empire in Mexico that was overthrown by Cortes in 1519"
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "05865081-n"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "Nahuatl"
+          5 SENSE 2
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "n"
+        4 WORDNET_OFFSET 5865081
+
+0 @2299956@ WORD_MEANING
+  1 PART_OF_SPEECH "n"
+  1 VARIANTS
+    2 LITERAL "classroom"
+      3 SENSE 1
+      3 DEFINITION "a room in a school where lessons take place"
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "02299956-n"
+    2 LITERAL "schoolroom"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "02299956-n"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "room"
+          5 SENSE 1
+    2 RELATION "has_mero_part"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "school"
+          5 SENSE 1
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "lecture room"
+          5 SENSE 1
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "n"
+        4 WORDNET_OFFSET 2299956
+
+0 @5585891@ WORD_MEANING
+  1 PART_OF_SPEECH "n"
+  1 VARIANTS
+    2 LITERAL "Kazan"
+      3 SENSE 1
+      3 DEFINITION "an industrial city in the European part of Soviet Russia"
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "05585891-n"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "city"
+          5 SENSE 2
+    2 RELATION "has_mero_part"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "Russia"
+          5 SENSE 5
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "n"
+        4 WORDNET_OFFSET 5585891
+
+0 @4707742@ WORD_MEANING
+  1 PART_OF_SPEECH "n"
+  1 VARIANTS
+    2 LITERAL "malfunction"
+      3 SENSE 1
+      3 DEFINITION "a failure to function normally"
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "04707742-n"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "failure"
+          5 SENSE 2
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "n"
+        4 WORDNET_OFFSET 4707742
+
+0 @495872@ WORD_MEANING
+  1 PART_OF_SPEECH "n"
+  1 VARIANTS
+    2 LITERAL "piano lesson"
+      3 SENSE 1
+      3 DEFINITION "a lesson in playing the piano"
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "00495872-n"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "music lesson"
+          5 SENSE 1
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "n"
+        4 WORDNET_OFFSET 495872
+
+0 @21098@ WORD_MEANING
+  1 PART_OF_SPEECH "n"
+  1 VARIANTS
+    2 LITERAL "action"
+      3 SENSE 3
+      3 DEFINITION "something done (usually as opposed to something said); "there were stories of murders and other unnatural actions""
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "00021098-n"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "act"
+          5 SENSE 1
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "thing"
+          5 SENSE 1
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "kindness"
+          5 SENSE 1
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "accomplishment"
+          5 SENSE 1
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "course"
+          5 SENSE 1
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "interaction"
+          5 SENSE 1
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "playing"
+          5 SENSE 1
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "play"
+          5 SENSE 8
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "arrival"
+          5 SENSE 2
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "performance"
+          5 SENSE 1
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "choice"
+          5 SENSE 1
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "change"
+          5 SENSE 1
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "economy"
+          5 SENSE 1
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "resistance"
+          5 SENSE 3
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "aggression"
+          5 SENSE 1
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "employment"
+          5 SENSE 3
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "reference"
+          5 SENSE 1
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "emphasizing"
+          5 SENSE 1
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "n"
+        4 WORDNET_OFFSET 21098
+
+0 @1209396@ WORD_MEANING
+  1 PART_OF_SPEECH "v"
+  1 VARIANTS
+    2 LITERAL "notice"
+      3 SENSE 3
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "01209396-v"
+    2 LITERAL "mark"
+      3 SENSE 18
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "01209396-v"
+    2 LITERAL "note"
+      3 SENSE 3
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "01209396-v"
+  1 INTERNAL_LINKS
+    2 RELATION "is_subevent_of"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "v"
+        4 LITERAL "feel"
+          5 SENSE 15
+    2 RELATION "near_antonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "v"
+        4 LITERAL "ignore"
+          5 SENSE 5
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "v"
+        4 LITERAL "take notice of"
+          5 SENSE 2
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "v"
+        4 WORDNET_OFFSET 1209396
+
+0 @271804@ WORD_MEANING
+  1 PART_OF_SPEECH "b"
+  1 VARIANTS
+    2 LITERAL "intuitively"
+      3 SENSE 1
+      3 DEFINITION ""Inventors seem to have chosen intuitively a combination of explosive and aggressive sounds as warning signals to be used on automobiles""
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "00271804-b"
+  1 INTERNAL_LINKS
+    2 RELATION "is_derived_from"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "a"
+        4 LITERAL "intuitive"
+          5 SENSE 2
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "b"
+        4 WORDNET_OFFSET 271804
+
+0 @150169@ WORD_MEANING
+  1 PART_OF_SPEECH "v"
+  1 VARIANTS
+    2 LITERAL "evolve"
+      3 SENSE 3
+      3 DEFINITION ""We evolved an interesting idea""
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "00150169-v"
+    2 LITERAL "come up with"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "00150169-v"
+    2 LITERAL "work out"
+      3 SENSE 2
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "00150169-v"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "v"
+        4 LITERAL "develop"
+          5 SENSE 2
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "v"
+        4 WORDNET_OFFSET 150169
+
+0 @5147798@ WORD_MEANING
+  1 PART_OF_SPEECH "n"
+  1 VARIANTS
+    2 LITERAL "bracket"
+      3 SENSE 4
+      3 DEFINITION "a category falling within certain defined limits"
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "05147798-n"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "set"
+          5 SENSE 7
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "income bracket"
+          5 SENSE 1
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "price bracket"
+          5 SENSE 1
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "n"
+        4 WORDNET_OFFSET 5147798
+
+0 @6244856@ WORD_MEANING
+  1 PART_OF_SPEECH "n"
+  1 VARIANTS
+    2 LITERAL "panhandler"
+      3 SENSE 1
+      3 DEFINITION "a beggar who approaches strangers asking for money"
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "06244856-n"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "beggar"
+          5 SENSE 1
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "n"
+        4 WORDNET_OFFSET 6244856
+
+0 @9133250@ WORD_MEANING
+  1 PART_OF_SPEECH "n"
+  1 VARIANTS
+    2 LITERAL "April"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "09133250-n"
+    2 LITERAL "Apr"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "09133250-n"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "Gregorian calendar month"
+          5 SENSE 1
+    2 RELATION "has_mero_part"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "Gregorian calendar"
+          5 SENSE 1
+    2 RELATION "has_mero_part"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "spring"
+          5 SENSE 6
+    2 RELATION "has_holo_part"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "April Fools'"
+          5 SENSE 1
+    2 RELATION "has_holo_part"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "Pan American Day"
+          5 SENSE 1
+    2 RELATION "has_holo_part"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "Patriot's Day"
+          5 SENSE 1
+    2 RELATION "has_holo_part"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "mid-April"
+          5 SENSE 1
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "n"
+        4 WORDNET_OFFSET 9133250
+
+0 @1508706@ WORD_MEANING
+  1 PART_OF_SPEECH "n"
+  1 VARIANTS
+    2 LITERAL "Tenebrionidae"
+      3 SENSE 1
+      3 DEFINITION "darkling beetles and mealworms"
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "01508706-n"
+    2 LITERAL "family Tenebrionidae"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "01508706-n"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "arthropod family"
+          5 SENSE 1
+    2 RELATION "has_mero_member"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "Coleoptera"
+          5 SENSE 1
+    2 RELATION "has_holo_member"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "darkling beetle"
+          5 SENSE 1
+    2 RELATION "has_holo_member"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "Tribolium"
+          5 SENSE 1
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "n"
+        4 WORDNET_OFFSET 1508706
+
+0 @7454197@ WORD_MEANING
+  1 PART_OF_SPEECH "n"
+  1 VARIANTS
+    2 LITERAL "angelim"
+      3 SENSE 1
+      3 DEFINITION "any of several tropical American trees of the genus Andira"
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "07454197-n"
+    2 LITERAL "andelmin"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "07454197-n"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "tree"
+          5 SENSE 1
+    2 RELATION "has_mero_member"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "Andira"
+          5 SENSE 1
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "cabbage bark"
+          5 SENSE 1
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "n"
+        4 WORDNET_OFFSET 7454197
+
+0 @1498733@ WORD_MEANING
+  1 PART_OF_SPEECH "a"
+  1 VARIANTS
+    2 LITERAL "aerated"
+      3 SENSE 1
+      3 DEFINITION "(of a liquid) treated by having air passed or bubbled through it for purification"
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "01498733-a"
+  1 INTERNAL_LINKS
+    2 RELATION "near_synonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "a"
+        4 LITERAL "treated"
+          5 SENSE 6
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "a"
+        4 WORDNET_OFFSET 1498733
+
+0 @3253350@ WORD_MEANING
+  1 PART_OF_SPEECH "n"
+  1 VARIANTS
+    2 LITERAL "ways"
+      3 SENSE 1
+      3 DEFINITION "sloping way down to the water where ships are built or repaired"
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "03253350-n"
+    2 LITERAL "shipway"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "03253350-n"
+    2 LITERAL "slipway"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "03253350-n"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "structure"
+          5 SENSE 1
+    2 RELATION "has_mero_part"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "shipyard"
+          5 SENSE 1
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "n"
+        4 WORDNET_OFFSET 3253350
+
+0 @4201226@ WORD_MEANING
+  1 PART_OF_SPEECH "n"
+  1 VARIANTS
+    2 LITERAL "climax"
+      3 SENSE 2
+      3 DEFINITION "the decisive moment in a novel or play"
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "04201226-n"
+    2 LITERAL "culmination"
+      3 SENSE 2
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "04201226-n"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "moment"
+          5 SENSE 5
+    2 RELATION "has_mero_part"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "story"
+          5 SENSE 2
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "n"
+        4 WORDNET_OFFSET 4201226
+
+0 @5126849@ WORD_MEANING
+  1 PART_OF_SPEECH "n"
+  1 VARIANTS
+    2 LITERAL "color scheme"
+      3 SENSE 1
+      3 DEFINITION "a planned combination of colors; "the color scheme for this room was determined by an interior decorator""
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "05126849-n"
+    2 LITERAL "colour scheme"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "05126849-n"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "combination"
+          5 SENSE 4
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "n"
+        4 WORDNET_OFFSET 5126849
+
+0 @4650539@ WORD_MEANING
+  1 PART_OF_SPEECH "n"
+  1 VARIANTS
+    2 LITERAL "repudiation"
+      3 SENSE 2
+      3 DEFINITION "rejecting as invalid"
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "04650539-n"
+    2 LITERAL "renunciation"
+      3 SENSE 2
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "04650539-n"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "rejection"
+          5 SENSE 2
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "disclaimer"
+          5 SENSE 1
+    2 RELATION "has_hyponym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "disownment"
+          5 SENSE 1
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "n"
+        4 WORDNET_OFFSET 4650539
+
+0 @2345065@ WORD_MEANING
+  1 PART_OF_SPEECH "n"
+  1 VARIANTS
+    2 LITERAL "conning tower"
+      3 SENSE 2
+      3 DEFINITION "an armored pilothouse on a warship"
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "02345065-n"
+  1 INTERNAL_LINKS
+    2 RELATION "has_hyperonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "pilothouse"
+          5 SENSE 1
+    2 RELATION "has_mero_part"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "n"
+        4 LITERAL "warship"
+          5 SENSE 1
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "n"
+        4 WORDNET_OFFSET 2345065
+
+0 @1377310@ WORD_MEANING
+  1 PART_OF_SPEECH "a"
+  1 VARIANTS
+    2 LITERAL "disgusted"
+      3 SENSE 1
+      3 DEFINITION "having a strong distaste from surfeit: "tired of the noise and smoke"; "fed up with their complaints"; "sick of it all"; "sick to death of flattery""
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "01377310-a"
+    2 LITERAL "fed up(p)"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "01377310-a"
+    2 LITERAL "sick of(p)"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "01377310-a"
+    2 LITERAL "tired of(p)"
+      3 SENSE 1
+      3 EXTERNAL_INFO
+        4 SOURCE_ID 1
+          5 TEXT_KEY "01377310-a"
+  1 INTERNAL_LINKS
+    2 RELATION "near_synonym"
+      3 TARGET_CONCEPT
+        4 PART_OF_SPEECH "a"
+        4 LITERAL "displeased"
+          5 SENSE 1
+  1 EQ_LINKS
+    2 EQ_RELATION "eq_synonym"
+      3 TARGET_ILI
+        4 PART_OF_SPEECH "a"
+        4 WORDNET_OFFSET 1377310
