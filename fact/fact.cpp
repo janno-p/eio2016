@@ -53,6 +53,8 @@ int calcS(int* table, int n)
     int s = getValue(f, c);
 
     table[n] = v == 1 ? s : max(s, calcS(table, v));
+
+    return table[n];
 }
 
 int main()
@@ -70,6 +72,7 @@ int main()
 
     for (int i = 0; i < numPrimes; i++) {
         int p = primes[i];
+        if (p >= tableSize) break;
         table[p] = p;
     }
 
@@ -81,6 +84,8 @@ int main()
     fout.open("factval.txt", ofstream::out);
     fout << score << endl;
     fout.close();
+
+    delete [] table;
 
     return 0;
 }
