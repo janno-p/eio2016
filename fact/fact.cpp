@@ -1,100 +1,81 @@
 #include <fstream>
 #include <stdint.h>
-#include <vector>
-#include <cmath>
+#include <cstring>
 
 using namespace std;
 
+int numPrimes = 168;
+int primes[] = {
+    2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97,
+    101, 103, 107, 109, 113, 127, 131, 137, 139, 149, 151, 157, 163, 167, 173, 179, 181, 191, 193, 197, 199,
+    211, 223, 227, 229, 233, 239, 241, 251, 257, 263, 269, 271, 277, 281, 283, 293,
+    307, 311, 313, 317, 331, 337, 347, 349, 353, 359, 367, 373, 379, 383, 389, 397,
+    401, 409, 419, 421, 431, 433, 439, 443, 449, 457, 461, 463, 467, 479, 487, 491, 499,
+    503, 509, 521, 523, 541, 547, 557, 563, 569, 571, 577, 587, 593, 599,
+    601, 607, 613, 617, 619, 631, 641, 643, 647, 653, 659, 661, 673, 677, 683, 691,
+    701, 709, 719, 727, 733, 739, 743, 751, 757, 761, 769, 773, 787, 797,
+    809, 811, 821, 823, 827, 829, 839, 853, 857, 859, 863, 877, 881, 883, 887,
+    907, 911, 919, 929, 937, 941, 947, 953, 967, 971, 977, 983, 991, 997
+};
+
+int twos[] = { 2, 4, 4, 6, 8, 8, 8, 10, 12, 12, 14, 16, 16, 16, 16, 18, 20, 20, 22 };
+int threes[] = { 3, 6, 9, 9, 12, 15, 18, 18, 21, 24, 27, 27 };
+int fives[] = { 5, 10, 15, 20, 25, 25, 30, 35 };
+
+int getValue(int n, int pow)
+{
+    if (n == 2) return twos[pow - 1];
+    if (n == 3) return threes[pow - 1];
+    if (n == 5) return fives[pow - 1];
+    return n * pow;
+}
+
+int calcS(int* table, int n)
+{
+    if (table[n] != 0) return table[n];
+
+    int f = 0;
+    for (int pi = 0; pi < numPrimes; pi++) {
+        int p = primes[pi];
+        if (n % p == 0) { f = p; break; }
+        if ((n / p) < p) break;
+    }
+
+    if (f == 0) {
+        table[n] = n;
+        return n;
+    }
+
+    int c = 0;
+    int v = n;
+    while (v % f == 0) { c++; v /= f; }
+
+    int s = getValue(f, c);
+
+    table[n] = v == 1 ? s : max(s, calcS(table, v));
+}
+
 int main()
 {
-    int64_t a, b;
+    int a, b;
 
     ifstream fin;
     fin.open("factsis.txt", ifstream::in);
     fin >> a >> b;
     fin.close();
 
-    vector<int64_t> knownPrimes;
-    knownPrimes.push_back(2);
+    int tableSize = b + 1;
+    int* table = new int[tableSize];
+    memset(table, 0, tableSize * sizeof(int));
 
-    auto isPrime = [&](int64_t x) -> bool {
-        int64_t m = (int64_t)sqrtl(x);
-        for (auto it = knownPrimes.begin(); it != knownPrimes.end(); it++)
-        {
-            if ((*it) > m) break;
-            if (x % (*it) == 0) return false;
-        }
-        if (x > (*(knownPrimes.rbegin()))) knownPrimes.push_back(x);
-        return true;
-    };
-
-    auto initPrimeGen = [&]() {
-        int64_t current = 1;
-        return [=, &knownPrimes, &isPrime]() mutable -> int64_t {
-            while (current <= 1000000)
-            {
-                current += 1;
-                if (!isPrime(current)) continue;
-                return current;
-            }
-            return 0;
-        };
-    };
-
-    auto s = [&](int64_t x) -> int64_t {
-        if (x == 1) return 1;
-
-        vector<int64_t> factors;
-
-        auto nextPrime = initPrimeGen();
-
-        auto rem = x;
-        while (rem > 1)
-        {
-            auto p = nextPrime();
-            while (p > 0 && rem % p == 0)
-            {
-                factors.push_back(p);
-                rem /= p;
-            }
-        }
-
-        int64_t fact = 0, extra = 0, num = 0, maxNum = 0;
-
-        for (auto it = factors.begin(); it != factors.end(); it++)
-        {
-            auto newFact = *it;
-
-            if (newFact != fact)
-            {
-                maxNum = max(maxNum, num);
-                extra = num = 0;
-                fact = newFact;
-            }
-
-            if (extra > 0)
-            {
-                extra--;
-                continue;
-            }
-
-            num += fact;
-
-            auto d = num / fact;
-            while (d % fact == 0)
-            {
-                d /= fact;
-                extra++;
-            }
-        }
-
-        return max(maxNum, num);
-    };
+    for (int i = 0; i < numPrimes; i++) {
+        int p = primes[i];
+        table[p] = p;
+    }
 
     int64_t score = 0;
-
-    for (int64_t x = a; x <= b; x++)
-        score += s(x);
+    for (int n = a; n <= b; n++)
+        score += (int64_t)calcS(table, n);
 
     ofstream fout;
     fout.open("factval.txt", ofstream::out);
