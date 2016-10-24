@@ -11,10 +11,10 @@ Kui alustame sammul 0 ruudul koordinaatidega (1; 1), siis millisel ruudul oleme 
 
 **Sisend.** Tekstifaili `joonsis.txt` ainsal real on täisarv *N* (0 &le; *N* &lt; 10<sup>18</sup>).
 
-**Valjund.** Tekstifaili `joonval.txt` ainsale reale väljastada kaks tühikuga eraldatud täisarvu,
+**Väljund.** Tekstifaili `joonval.txt` ainsale reale väljastada kaks tühikuga eraldatud täisarvu,
 mis tähistavad lõppruudu X- ja Y-koordinaate.
 
-**Naide.**
+**Näide.**
 
 `joonsis.txt`
 
